@@ -5,7 +5,7 @@
 			<ul>
 				<li><a href="work.php">WORK</a></li>
 				<li><a href="buy-design.php">BUY DESIGN</a></li>
-				<li><a href="#" class="people-menu">PEOPLE</a></li>
+				<li><a href="our-talent.php">PEOPLE</a></li>
 				<li><a href="agency-chatter.php">AGENCY CHATTER</a></li>
 				<li><a href="careers.php">CAREERS</a></li>
 				<li><a href="search-results.php">SEARCH</a></li>
