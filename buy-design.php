@@ -59,17 +59,7 @@
 </article>
 <article class="container our-tools-bg cf center">
 		<!--<img src="img/approach-infographic.png" alt="" class="approach-infographic">-->
-		<h6 class="approach-dec-hdr">A CREATIVE IDEA THAT ENGAGES</h6>
-		<div class="approach-dec-txt">
-			<p>First, we understand information and insights about the consumer, shopper, retailer, brand and cultural context.</p>
-
-			<p>Next, we imagine a creative idea or solution to motivate action.</p>
-
-			<p>Then we bring this imagination into reality by designing an integrated buyer-user experience executed across the stickiest marketing touch-points.</p> 
-
-			<p>Finally, once a program is in-market, we measure, analyze and learn to ensure it has the greatest impact possible.</p>
-		</div>
-</article>
+		</article>
 <!--our-approach-->
 
 <!--include our offices-->
