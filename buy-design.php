@@ -55,11 +55,11 @@
 
 <!--our-approach-->
 <article class="container our-approach" data-type="background" data-speed="10">	
-		<h2 class="our-approach-h2">OUR TOOLS</h2>
+		<h2 class="our-approach-h2"><span class="electric-blue">OUR SUCCESS IS DRIVEN BY</span>OUR TOOLS</h2>
 </article>
-<article class="container dots-bg2 cf center">
-	<img src="img/approach-infographic.png" alt="" class="approach-infographic">
-		<h6 class="approach-dec-hdr">Turn consumers and shoppers into buyers of brands.</h6>
+<article class="container our-tools-bg cf center">
+		<!--<img src="img/approach-infographic.png" alt="" class="approach-infographic">-->
+		<h6 class="approach-dec-hdr">A CREATIVE IDEA THAT ENGAGES</h6>
 		<div class="approach-dec-txt">
 			<p>First, we understand information and insights about the consumer, shopper, retailer, brand and cultural context.</p>
 
