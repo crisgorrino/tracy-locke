@@ -29,7 +29,7 @@
 <article class="container buy-design" data-type="background" data-speed="5">	
 		<h1 class="buy-design-h1"><span>EVERY THING WE DO IS</span>BUY<br> DESIGN</h1><a name="buy-design"></a>	
 </article>
-<article class="container dots-bg2 cf">
+<article class="container dots-bg5 cf">
 	<div class="overlayed-text">
 		<h3>To say something is done “by design” means it has intent and purpose.</h3>
 		<p>For TracyLocke, the content and experiences we create are intended to turn consumers and shoppers into buyers of brands.</p>
@@ -37,116 +37,25 @@
 		<p>The term “design” also nods to the fact that we believe the path-to-purchase is now an infinite loop and marketers have to design a buyer-user experience for brands that is not only creative and compelling, but also attuned to how people interact and engage with brands today.</p>
 
 		<p>That is what led to TracyLocke’s proprietary method of Buy Design to build brands while motivating purchase.</p>
-	</div>	
+			
+	</div>
+		<div class="we-like-to-say">
+			<h3>We like to say<br> <span class="electric-blue">‘we live at the intersection of art and science’</span>
+			because its balance of data and insight informing art and design.</h3>
+	 </div>	
+	 <img src="img/art-science-cross.png" alt="art-science" class='over-img'>	
 </article>
 <!--buy design-->
 
 <!--art-science-->
-<article class="container art-science" data-type="background" data-speed="8">	
-		<h2 class="art-science-h2">ART & SCIENCE</h2>
-		<img src="img/art-science-cross.png" alt="art-science" class='over-img'>	
-</article>
-<article class="container dots-bg2 cf">
-	<div class="overlayed-text">
-		<h4>We like to say ‘we live at the intersection of art and science’</h4>
-		<h6>because its balance of data and insight informing art and design.</h6>
-	</div>	
-</article>
+		
+
 <!--art-science-->
 
-<!--the tools-->
-<article class="container the-tools" data-type="background" data-speed="10">	
-		<h2 class="the-tools-h2">THE TOOLS</h2>
-</article>
-<article class="container tools-slider" id="tab-container">
-<!--tool tabs-->
-	 <ul class='etabs tools-slider-menu'>
-		 <li class='tab'>
-		 	<a href="#deep-dive" class="dive-up"></a>
-		</li>
-		 <li class='tab'>
-		 	<a href="#commitment" class="commit-up"></a>
-		 </li>
-		 <li class='tab'>
-		 	<a href="#brand-unity" class="brand-up"></a>
-		 </li>
-		 <li class='tab'>
-		 	<a href="#design-eval" class="design-up"></a>
-		</li>
-		 <li class='tab'>
-		 	<a href="#ux" class="ux-up"></a>
-		 </li>
-		 <li class='tab'>
-		 	<a href="#market-catalyst" class="market-up"></a>
-		 </li>
-<!--tool tabs-->	 
-   </ul>
-   <!--DEEP DIVE-->
-	<div class="tools-slider-cont" id="deep-dive">
-		<img src="img/mount-dew.jpg" alt="" class="inline">
-		<div class="inline-top tools-slider-desc">
-			<h5>COMMITMENT JOURNEY</h5>
-			<p>Leads our strategic thinking to design optimal brand and retail experiences that 
-transform transactions into relationships and build sustainable loyalty</p>
-		</div>
-	</div>
-	<!--DEEP DIVE-->
-	<!--Ring-->
-	<div class="tools-slider-cont" id="commitment">
-		<img src="img/mount-dew.jpg" alt="" class="inline">
-		<div class="inline-top tools-slider-desc">
-			<h5>COMMITMENT JOURNEY2</h5>
-			<p>Leads our strategic thinking to design optimal brand and retail experiences that 
-transform transactions into relationships and build sustainable loyalty</p>
-		</div>
-	</div>
-	<!--Ring-->
-	<!--brand unity-->
-	<div class="tools-slider-cont" id="brand-unity">
-		<img src="img/mount-dew.jpg" alt="" class="inline">
-		<div class="inline-top tools-slider-desc">
-			<h5>COMMITMENT JOURNEY3</h5>
-			<p>Leads our strategic thinking to design optimal brand and retail experiences that 
-transform transactions into relationships and build sustainable loyalty</p>
-		</div>
-	</div>
-	<!--brand unity-->
-	<!--design eval-->
-	<div class="tools-slider-cont" id="design-eval">
-		<img src="img/mount-dew.jpg" alt="" class="inline">
-		<div class="inline-top tools-slider-desc">
-			<h5>COMMITMENT JOURNEY3</h5>
-			<p>Leads our strategic thinking to design optimal brand and retail experiences that 
-transform transactions into relationships and build sustainable loyalty</p>
-		</div>
-	</div>
-	<!--design eval-->
-	<!--ux-->
-	<div class="tools-slider-cont" id="ux">
-		<img src="img/mount-dew.jpg" alt="" class="inline">
-		<div class="inline-top tools-slider-desc">
-			<h5>COMMITMENT JOURNEY3</h5>
-			<p>Leads our strategic thinking to design optimal brand and retail experiences that 
-transform transactions into relationships and build sustainable loyalty</p>
-		</div>
-	</div>
-	<!--ux-->
-	<!--market catalyst-->
-	<div class="tools-slider-cont" id="market-catalyst">
-		<img src="img/mount-dew.jpg" alt="" class="inline">
-		<div class="inline-top tools-slider-desc">
-			<h5>COMMITMENT JOURNEY3</h5>
-			<p>Leads our strategic thinking to design optimal brand and retail experiences that 
-transform transactions into relationships and build sustainable loyalty</p>
-		</div>
-	</div>
-	<!--market catalyst-->
-</article>	
-<!--the tools-->
 
 <!--our-approach-->
 <article class="container our-approach" data-type="background" data-speed="10">	
-		<h2 class="our-approach-h2">OUR APPROACH</h2>
+		<h2 class="our-approach-h2">OUR TOOLS</h2>
 </article>
 <article class="container dots-bg2 cf center">
 	<img src="img/approach-infographic.png" alt="" class="approach-infographic">
