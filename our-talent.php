@@ -44,37 +44,53 @@
 
 <article class="container dots-bg2 work-highlights cf superbox">
 		<div  class='work-port-img superbox-list' >
-			<img src="img/two.jpg" alt="" class="">
-			<div class="work-hover center">
-				<img src="img/logos/pizza-hut-written-out.png" alt="Tracy Locke">
+			<img src="img/manuel-h-bw.jpg" alt="">
+			<div class="talent-hover center ">
+				<h3 class="white">MANUEL HERRERA</h3>
 			</div>
 			<div style="display:none;" class="superbox-content">
-				<div class="work-example left">
-					<img src="img/pizza-hut-work-1.jpg" alt="pizza-hut1">
-					 <!--tweeter feed-->
-					 <div class="twtr-feed">
-						<img src="img/twitter-girl.jpg" alt="twtr">
-						<div class="norm-twtr-feed">
-							<div class="norm-twtr-feed-inner cf">
-								<img src="img/twitter-blue.png" alt="twtr-bird" class="norm-twtr-img">
-					    		<span class="norm-twtr-name">Lindsay Weisgerber <span class="electric-blue">@lindzweiz</span></span>
-					    		<span class="norm-twtr-date">17 SEP</span>
-					    		<p>7 Apps Fashionistas Would Actually Use @TechCrunch
-						    		<span class="electric-blue">techcrunch.com/2013/06/17/sor...</span></p>
-					    		<div class="norm-twtr-menu">
-						    		<a href=""><img src="img/twtr-menu-gray.png" alt="" class="inline">Reply</a>
-						    		<a href=""><img src="img/twtr-menu-2-gray.png" alt="" class="inline">Retweet</a>
-								</div>
-					    	</div>
-						</div>
-					</div>
-					 <!--tweeter feed-->
-					<img src="img/work-examples-last.jpg" alt="laeft">
+				<div class="work-example left talented-people">
+			    	<h2 class="talent-slide-name">MANUEL HERRERA</h2> 
+			    	<p class="talent-writeup">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dapibus, lectus sit amet sollicitudin volutpat, massa ante sagittis nulla, vitae tincidunt ligula magna sit amet neque. In condimentum est in velit semper, non rutrum nunc ultrices. Praesent eu ligula pulvinar, tincidunt felis a, sodales leo.</p> 
+			    	
+			    	<h3 class="slide-featured-work">FEATURED WORK</h3>   
+			    	<img src="img/featured-work-herrera-1.jpg" alt="pizza">
+			    	<img src="img/featured-work-herrera-2.jpg" alt="pizza">  
 				</div>
-				<div class="work-example right">
-					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
-					<img src="img/prize-rules.jpg" alt="laeft">
+				<div class="work-example right talented-people">
+					<h3 class="slide-featured-work">CHATTER</h3>
+				    	<!--talent twtr feed-->
+				    		<div class="talent-twtr-feed">
+					    		<img src="img/twtr-bird.png" alt="twtr-bird" class="twtr-img">
+					    		<div class="talent-twtr-feed-inner cf">
+						    		<span class="twtr-name">@MANNYME80</span>
+						    		<span class="twtr-date">17 SEP</span>
+						    		<p>Clean. https://www.g-star.com/en_us/raw/index.jsp …</p>
+						    		<div class="twtr-menu">
+							    		<a href=""><img src="img/twtr-menu-1.png" alt=""></a>
+							    		<a href=""><img src="img/twtr-menu-2.png" alt=""></a>
+							    		<a href=""><img src="img/twtr-menu-3.png" alt=""></a>
+							    		<a href="#"><img src="img/twtr-menu-4.png" alt=""></a>
+						    		</div>
+						    	</div>
+					    	</div>
+					    <!--talent twtr feed-->
+					    	<!--talent twtr feed-->
+				    		<div class="talent-twtr-feed">
+					    		<img src="img/twtr-bird.png" alt="twtr-bird" class="twtr-img">
+					    		<div class="talent-twtr-feed-inner cf">
+						    		<span class="twtr-name">@MANNYME80</span>
+						    		<span class="twtr-date">17 SEP</span>
+						    		<p>Everything Everywhere All The Time DVD on @behance: http://www.behance.net/gallery/Everything-Everywhere-All-The-Time-DVD/10595017 …</p>
+						    		<div class="twtr-menu">
+							    		<a href=""><img src="img/twtr-menu-1.png" alt=""></a>
+							    		<a href=""><img src="img/twtr-menu-2.png" alt=""></a>
+							    		<a href=""><img src="img/twtr-menu-3.png" alt=""></a>
+							    		<a href="#"><img src="img/twtr-menu-4.png" alt=""></a>
+						    		</div>
+						    	</div>
+					    	</div>
+					    <!--talent twtr feed-->
 				</div>
 			</div>
 		</div><!--

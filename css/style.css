@@ -576,6 +576,23 @@ footer a.icon-facebook{margin:1% 0;}
 	
 	
 
+/*---MOBILE PAGE FOR OUR TALENT---*/
+	.talent-hover{opacity:0; position: absolute; top:0; -o-transition: opacity 0.30s ease-in;-webkit-transition: opacity 0.30s ease-in;-moz-transition: opacity 0.30s ease-in;transition: opacity 0.30s ease-in; width:100%; padding:29% 0;}
+	
+	.talent-hover img{width:10%; display: block; margin:0 auto; opacity: 0;}
+
+	.work-port-img:hover .talent-hover,.work-port-img.active .talent-hover{opacity:1; background: rgba(56,178,243,.9);}
+
+    .work-port-img:hover .talent-hover img, .work-port-img.active .talent-hover img{opacity:1;-o-transition: opacity 0.30s ease-in;-webkit-transition: opacity 0.30s ease-in;-moz-transition: opacity 0.30s ease-in;transition: opacity 0.30s ease-in; width: 25%;}
+	
+	.talented-people{background-color:#00a5db;}
+	.work-example .talent-slide-name{text-align: left; width: 90%; padding:5% 5% 0% 5%;}
+	.work-example .talent-writeup {text-align: left; width: 90%; padding:0 5%;}
+	.work-example .slide-featured-work{text-align: left; padding:0 5%;}
+	.work-example .talent-twtr-feed {padding:0 5%; text-align: left;}
+	.work-example .talent-twtr-feed .twtr-img{width:7%;}
+
+
 
 
 /*--media queries--*/
@@ -658,7 +675,7 @@ footer a.icon-facebook{margin:1% 0;}
 	.approach-dec-hdr{width: 39%; margin: 20% 0 0 0; font-size: 1em;}
 	.approach-dec-txt{margin: 20% 0 0 2%; width: 50%;}
 	.work-example{width:100%;}
-	
+		
 	
 	/*--agency chatter--*/
 	.agency-chatter-bg{height:130px;}
@@ -726,6 +743,7 @@ and (orientation : landscape) {
 	.address{width:33%;}
 	.dots-bg{height:auto;}
 	.logos-container ul li {width: 30%;}
+	
 	/*--buy design--*/
 	.buy-design{height: 200px;}
 	.buy-design-h1{width: 35%; margin-top: -7%;}
