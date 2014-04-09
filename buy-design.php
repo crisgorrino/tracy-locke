@@ -55,7 +55,7 @@
 
 <!--our-approach-->
 <article class="container our-approach" data-type="background" data-speed="10">	
-		<h2 class="our-approach-h2"><span class="electric-blue">OUR SUCCESS IS DRIVEN BY</span>OUR TOOLS</h2>
+		<h2 class="our-approach-h2"><span class="electric-blue">OUR SUCCESS IS DRIVEN BY</span>OUR<br> TOOLS</h2>
 </article>
 <article class="container our-tools-bg cf ">
 		<img src="img/our-tools-bg.png" alt="" class="approach-infographic">

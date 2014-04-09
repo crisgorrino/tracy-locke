@@ -55,8 +55,9 @@ $(document).on("scroll",function(){
               $('#sidebar-wrapper.active').css('right','0px').animate();
               $("#sidebar-wrapper").removeClass("active").animate();
               $(document.body).not('.sidebar-wrapper').css('overflow', 'auto');
-              $('.container-push').removeClass('active');  
-          }
+              $('.container-push').removeClass('active');      
+             }
+          
        else{
            $("#sidebar-wrapper").addClass("active").animate();
            $('#sidebar-wrapper.active').css('right','250px').animate();
@@ -76,7 +77,7 @@ $(document).on("scroll",function(){
         $('.people-city').hide();
 		$('.people-disc').hide();
 		$('.people-brand').hide();
-		//$('.container-push').removeClass('active'); 
+		//$('.container-push').removeClass('active');
         });
      
 
@@ -89,10 +90,11 @@ $(document).on("scroll",function(){
 	     $('.people-city').hide();
 	     $('.people-disc').hide();
 	     $('.people-brand').hide();
+	     //$('.container-push').removeClass('active');
      });
     
 
-   $("#staff-toggle").click(function(e) {
+   $(".staff-toggle").click(function(e) {
         e.preventDefault();
         $('#sidebar-wrapper.active').css('right','715px');
         $("#sidebar-wrapper2").addClass("active");
@@ -104,7 +106,7 @@ $(document).on("scroll",function(){
 		$('.people-disc').hide();
 		$('.people-brand').hide();
     });
-    
+                
 /*--custom scroll bar--*/
 	  $(document).ready(function () {
 	      if (!$.browser.webkit) {

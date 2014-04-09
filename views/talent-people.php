@@ -32,12 +32,12 @@
 				</span>
 				
 			</div>
-	        <li class="talent"><a href="#" id="staff-toggle"><img src="img/one.jpg"></a></li>
+	        <li class="talent"><a href="#" class="staff-toggle"><img src="img/one.jpg" data-src="img/one.jpg" data-src-on="img/talent-active-manny.jpg"></a></li>
 	        <li class="talent"><a href="#"><img src="img/two.jpg"></a></li>
 	        <li class="talent"><a href="#"><img src="img/three.jpg"></a></li>
 	        <li class="talent"><a href="#"><img src="img/four.jpg"></a></li>
 	        <li class="talent"><a href="#"><img src="img/five.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/six.jpg"></a></li>
+	        <li class="talent"><a href="#" class="staff-toggle"><img src="img/six.jpg" data-src="img/six.jpg" data-src-on="img/talent-active-manny.jpg"></a></li>
 	        <li class="talent"><a href="#"><img src="img/seven.jpg"></a></li>
 	        <li class="talent"><a href="#"><img src="img/eight.jpg"></a></li>
 	        <li class="talent"><a href="#"><img src="img/nine.jpg"></a></li>
