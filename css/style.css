@@ -286,11 +286,16 @@ footer a.icon-facebook{margin:1% 0;}
 
 
 /*--our approach--*/
-.our-tools-bg{height: 500px; /*background-image: url(../img/our-tools-bg.jpg); */background-color: #eaeaea;background-position: 50% 104%;background-repeat: no-repeat; }
+.our-tools-bg{height: 750px; /*background-image: url(../img/our-tools-bg.jpg); */background-color: #eae8e0;background-position: 50% 104%;background-repeat: no-repeat; }
 .our-approach{height:395px; background-image: url(../img/art-science-bg.jpg); background-position: 50% 0%; background-size:105%; background-repeat: no-repeat; position:relative; top:20%;}
-.our-approach-h2{color:#fff; font-family: 'bebas'; font-size: 8em; width:18%; line-height: .75em; position: absolute;z-index: 10; margin-top: 25.5%; left: 10%; font-weight: normal;}
+.our-approach-h2{color:#fff; font-family: 'bebas'; font-size: 8em; width:18%; line-height: .75em; position: absolute;z-index: 10; margin-top: 26%; left: 10%; font-weight: normal;}
 .our-approach-h2 span{font-size: .12em;display: block;line-height: 1.6em;padding: 0 0 1% 1%;}
-.approach-infographic{position: absolute;left: 20%;margin: -6% 0 0 0;}
+.our-tools-info{width:43%; position: absolute; top:45%; left:24.3%;}
+.our-tools-info h3{margin:0; color:#000; font-weight: normal; font-family: 'dine'; font-size: 3em;}
+.our-tools-info p{font-family: helvetica, arial, sans-serif;}
+.our-tools-black{width:60%; display: block; margin:5% auto;}
+
+.approach-infographic{position: absolute; left: -14%; margin: 0; width: 114%; top: -4%;}
 .approach-dec-hdr{color:#00a5db; font-family: helvetica, arial, sans-serif; font-weight: 100; font-size: 1.3em; display: inline-block; vertical-align: top; width:14%; margin: 13% 0 0 0;text-align: left; line-height: 1.4em;}
 .approach-dec-txt{margin: 13% 0 0 2%;text-align: left; width:30%; display: inline-block; vertical-align: top;}
 .approach-dec-txt p{margin-top:0; font-family: helvetica, arial, sans-serif; font-weight: 100; font-size: .9em;}

@@ -57,9 +57,23 @@
 <article class="container our-approach" data-type="background" data-speed="10">	
 		<h2 class="our-approach-h2"><span class="electric-blue">OUR SUCCESS IS DRIVEN BY</span>OUR TOOLS</h2>
 </article>
-<article class="container our-tools-bg cf center">
-		<!--<img src="img/approach-infographic.png" alt="" class="approach-infographic">-->
-		</article>
+<article class="container our-tools-bg cf ">
+		<img src="img/our-tools-bg.png" alt="" class="approach-infographic">
+		<div class="our-tools-info cf">
+			<h3>A CREATIVE IDEA THAT ENGAGES.</h3>
+			<p>First, we understand information and insights about the consumer, shopper, retailer, brand and cultural context.</p>
+
+			<p>Then we bring this imagination into reality by designing an integrated buyer-user experience executed across the stickiest marketing touch-points. </p>
+
+			<p>Finally, once a program is in-market, we measure, analyze and learn to ensure it has the greatest impact possible.</p> 
+			
+			<img src="img/our-tools-black.png" alt="" class="our-tools-black">
+		</div>	
+</article>
+<!--our-approach-->
+<article class="container our-tools-bg cf ">
+
+</article>
 <!--our-approach-->
 
 <!--include our offices-->
