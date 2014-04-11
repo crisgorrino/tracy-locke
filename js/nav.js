@@ -178,9 +178,9 @@ $(document).on("scroll",function(){
 				});	
 						
 			}			
-});	
+});	*/
 
-function officeChange(){
+/*function officeChange(){
 	//$('.locations li').removeClass('active');	
 	var tiempo=2000;
 	$('#tab-container-locations').easytabs('select','#dallas');
@@ -243,5 +243,8 @@ $('.mobile-nav-toogle-btn').click(function(e){
 	$('.mobile-nav-container').slideToggle('slow');
 })
 
+
+//fade in for our offices
+window.scrollReveal = new scrollReveal();
 
 	

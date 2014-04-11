@@ -85,6 +85,7 @@
 <!--inlcude footer-->
 </section>
 <script src="js/jquery-1.8.3.js"></script>
+<script src="js/scrollReveal.js"></script>
 <script src="js/jquery.easytabs.min.js" type="text/javascript"></script>  
 <script type="text/javascript" src="js/nav.js"></script>
 <script type="text/javascript" src="js/matchMedia.js"></script>
