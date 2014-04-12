@@ -73,7 +73,13 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
 			</div>
@@ -108,9 +114,16 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
+			</div>
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
@@ -118,7 +131,7 @@
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
-			<div style="display:none;" class="superbox-content">
+						<div style="display:none;" class="superbox-content">
 				<div class="work-example left">
 					<img src="img/pizza-hut-work-1.jpg" alt="pizza-hut1">
 					 <!--tweeter feed-->
@@ -143,7 +156,13 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
 			</div>
@@ -178,10 +197,16 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
-			</div>
+			</div>		
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
 			<img src="img/work-5.jpg" alt="" class="">
@@ -213,7 +238,13 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
 			</div>
@@ -248,7 +279,13 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
 			</div>
@@ -283,7 +320,13 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
 			</div>
@@ -318,7 +361,13 @@
 				</div>
 				<div class="work-example right">
 					<img src="img/pizza-hut-work-2.jpg" alt="pizza-hut1">
-					<img src="img/crazy-lunch.jpg" alt="worker-tweet">
+					<div class="project-info-desc cf">
+						<h3>A CRAZY LUNCH</h3>
+						<h4>DUDE PERFECT HELPS PIZZA LAUNCH ITS CRAZIEST PRODUCT EVER</h4>
+						<span class="project-des-rule">&nbsp;</span>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
+					</div>
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
 			</div>

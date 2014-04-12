@@ -413,10 +413,16 @@ footer a.icon-facebook{margin:1% 0;}
 
 .work-filter-container li.active.brand a:after{content: url(../img/arrow-down-small-black.png);}
 
-.work-example .twtr-feed{background-color:#fff; text-align: left; padding: 15% 8% 4% 8%;}
+.work-example .twtr-feed{background-color:#eaeaea; text-align: left; padding: 15% 8% 4% 8%;}
 .work-example .twtr-feed img{width: 22%!important;}
 .work-example .norm-twtr-feed-inner {width:77%;}
 .work-example .norm-twtr-feed-inner img{width: 8%!important;}
+
+.project-info-desc{background-color: #eaeaea; padding: 6%; text-align: left;}
+.project-info-desc h3{font-size: 4em;font-family: 'dine';margin: 0; font-weight: normal;}
+.project-info-desc h4{font-size: 1.2em; color:#939393; font-family: 'dine'; margin: 0; font-weight: normal;}
+.project-des-rule{width:20%; background-color:#000; display:block; height:1px; margin-top: 2%; }
+.project-info-desc p{width: 40%; padding: 0 7% 0 0;  display: inline-block; vertical-align: top; clear:both;}
 
 /*--work pieces--*/
 .work-port-img{display:inline-block; *display:inline; zoom:1; position:relative; cursor:pointer;}
