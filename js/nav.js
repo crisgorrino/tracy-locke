@@ -1,3 +1,25 @@
+//scrolling offices slider
+			$(function() {
+				$('#va-accordion').vaccordion({
+					accordionW		: 300,
+					accordionH		: $('.office-location-cont').height(),
+					visibleSlices	: 5,
+					expandedHeight	: 150,
+					animOpacity		: 0.5,
+					contentAnimSpeed: 400
+				});
+			});
+
+
+//trigger first object in list
+	$( document ).ready(function() {
+			$('.va-slice-1').trigger('click');
+    });
+
+
+/*--Office tabs*/
+//$('#tab-container-locations').easytabs();
+
 /*--NAV SCROLL to functions----*/
     
 /*---contact scroll to function--*/
@@ -108,7 +130,7 @@ $(document).on("scroll",function(){
 		$('.people-brand').hide();
     });
                 
-/*--custom scroll bar--*/
+/*--custom scroll bar--
 	  $(document).ready(function () {
 	      if (!$.browser.webkit) {
 	          //$('.scroll-container').jScrollPane();
@@ -157,85 +179,6 @@ $(document).ready(function(){
 		});
 	});
 
-$('#tab-container-locations').easytabs();
-
-
-//office scroll
-/*var autotabs=false;
-var valTop2= parseInt($('.office-location-cont').offset().top);
-$(document).on("scroll",function(){
-
-		if($(document).scrollTop()>=valTop2){
-				//$('body').css('overflow', 'hidden');
-				if(autotabs==false){
-					//$('body').mousewheel(function(event){return false;});
-					$('body').css('overflow', 'hidden')
-					//officeChange();
-				}
-				
-				$('.locations .tab').last().bind('DOMSubtreeModified', function() {
-						
-				});	
-						
-			}			
-});	*/
-
-/*function officeChange(){
-	//$('.locations li').removeClass('active');	
-	var tiempo=2000;
-	$('#tab-container-locations').easytabs('select','#dallas');
-	
-	setTimeout(function(){
-		$('#tab-container-locations').easytabs('select','#wilton');	
-		//
-		setTimeout(function(){
-			$('#tab-container-locations').easytabs('select','#soho');	
-			//
-			setTimeout(function(){
-				$('#tab-container-locations').easytabs('select','#sf');	
-				//
-				setTimeout(function(){
-					$('#tab-container-locations').easytabs('select','#bentonville');	
-					//
-					setTimeout(function(){
-						$('#tab-container-locations').easytabs('select','#field');	
-						//
-						setTimeout(function(){
-							$('#tab-container-locations').easytabs('select','#dubai');	
-							//
-							setTimeout(function(){
-								$('#tab-container-locations').easytabs('select','#london');	
-								//
-								setTimeout(function(){
-									$('#tab-container-locations').easytabs('select','#mumba');	
-									//
-									setTimeout(function(){
-										$('#tab-container-locations').easytabs('select','#paris');	
-										//
-										//aqui activar scroll
-										autotabs=true;
-										//$('body').mousewheel(function(event){return true;});
-										$('body').css('overflow', 'auto')
-									}, tiempo);
-									
-								}, tiempo);
-								
-							}, tiempo);
-							
-						}, tiempo);
-						
-					}, tiempo);
-					
-				}, tiempo);
-				
-			}, tiempo);
-			
-		}, tiempo);
-		
-	}, tiempo);
-	
-	
-}*/
 
 /**mobile nav toggle**/
 $('.mobile-nav-toogle-btn').click(function(e){
@@ -246,5 +189,8 @@ $('.mobile-nav-toogle-btn').click(function(e){
 
 //fade in for our offices
 window.scrollReveal = new scrollReveal();
+
+
+
 
 	
