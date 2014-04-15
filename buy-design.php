@@ -72,7 +72,7 @@
 </article>
 <!--our-approach-->
 <article class="container our-tools-bg2 cf ">
-	<div class="inner">
+
 		<ul class="our-tools-tab">
 			<li><a href="" class="deepdive"></a></li>
 			<li><a href="" class="ux active"></a></li>
@@ -81,7 +81,16 @@
 			<li><a href="" class="market-catalyst"></a></li>
 			<li><a href="" class="brand-unity"></a></li>
 		</ul>
-	</div>
+		<div class="our-tools-gray-cont"></div>
+		<div class="our-tools-info-cont">
+				<img src="img/work-4.jpg" alt="" class="">
+				<div class="our-tools-info-info">
+					<h2>TAKING A HOLISTIC VIEW.</h2>
+					<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					<a href="">SEE THE PROJECT</a>
+				</div>	
+			</div>
 </article>
 <!--our-approach-->
 
