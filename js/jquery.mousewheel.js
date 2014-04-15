@@ -1,7 +1,7 @@
 /*! Copyright (c) 2013 Brandon Aaron (http://brandon.aaron.sh)
  * Licensed under the MIT License (LICENSE.txt).
  *
- * Version: 3.1.11
+ * Version: 3.1.9
  *
  * Requires: jQuery 1.2.2+
  */
@@ -32,7 +32,7 @@
     }
 
     var special = $.event.special.mousewheel = {
-        version: '3.1.11',
+        version: '3.1.9',
 
         setup: function() {
             if ( this.addEventListener ) {
@@ -55,17 +55,10 @@
             } else {
                 this.onmousewheel = null;
             }
-            // Clean up the data we added to the element
-            $.removeData(this, 'mousewheel-line-height');
-            $.removeData(this, 'mousewheel-page-height');
         },
 
         getLineHeight: function(elem) {
-            var $parent = $(elem)['offsetParent' in $.fn ? 'offsetParent' : 'parent']();
-            if (!$parent.length) {
-                $parent = $('body');
-            }
-            return parseInt($parent.css('fontSize'), 10);
+            return parseInt($(elem)['offsetParent' in $.fn ? 'offsetParent' : 'parent']().css('fontSize'), 10);
         },
 
         getPageHeight: function(elem) {
@@ -73,8 +66,7 @@
         },
 
         settings: {
-            adjustOldDeltas: true, // see shouldAdjustOldDeltas() below
-            normalizeOffset: true  // calls getBoundingClientRect for each event
+            adjustOldDeltas: true
         }
     };
 
@@ -95,9 +87,7 @@
             delta      = 0,
             deltaX     = 0,
             deltaY     = 0,
-            absDelta   = 0,
-            offsetX    = 0,
-            offsetY    = 0;
+            absDelta   = 0;
         event = $.event.fix(orgEvent);
         event.type = 'mousewheel';
 
@@ -171,19 +161,10 @@
         deltaX = Math[ deltaX >= 1 ? 'floor' : 'ceil' ](deltaX / lowestDelta);
         deltaY = Math[ deltaY >= 1 ? 'floor' : 'ceil' ](deltaY / lowestDelta);
 
-        // Normalise offsetX and offsetY properties
-        if ( special.settings.normalizeOffset && this.getBoundingClientRect ) {
-            var boundingRect = this.getBoundingClientRect();
-            offsetX = event.clientX - boundingRect.left;
-            offsetY = event.clientY - boundingRect.top;
-        }
-
         // Add information to the event object
         event.deltaX = deltaX;
         event.deltaY = deltaY;
         event.deltaFactor = lowestDelta;
-        event.offsetX = offsetX;
-        event.offsetY = offsetY;
         // Go ahead and set deltaMode to 0 since we converted to pixels
         // Although this is a little odd since we overwrite the deltaX/Y
         // properties with normalized deltas.
