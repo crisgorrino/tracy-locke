@@ -24,7 +24,7 @@
 <!--include header-->
 
 <!--Search Results-->
-<article class="container careers-slide-bg">	
+<article class="container careers-slide-bg" data-type="background" data-speed="15">	
 		<h1 class="careers-h1"><input type="text" class="search-param2" value="SEARCH">CAREERS</h1><a name="careers"></a>	
 </article>
 <article class="container dots-bg3 cf">
