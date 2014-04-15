@@ -42,8 +42,8 @@
 		</ul>
 </article>
 
-<article class="container dots-bg2 work-highlights cf superbox">
-		<div  class='work-port-img superbox-list' >
+<article class="container dots-bg2 work-highlights cf superbox"><!--
+		--><div  class='work-port-img superbox-list' >
 			<img src="img/work-1.jpg" alt="" class="">
 			<div class="work-hover center">
 				<img src="img/logos/pizza-hut-written-out.png" alt="Tracy Locke">
@@ -80,7 +80,7 @@
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eget varius dolor. Integer id urna accumsan, facilisis risus in, pulvinar ante.</p>
 					</div>
-					<img src="img/prize-rules.jpg" alt="laeft">
+					<img src="img/prize-rules.jpg" alt="left">
 				</div>
 			</div>
 		</div><!--
@@ -124,14 +124,13 @@
 					<img src="img/prize-rules.jpg" alt="laeft">
 				</div>
 			</div>
-			</div>
-		</div><!--		
-	--><div class='work-port-img superbox-list'>
+		</div><!--	
+		--><div class='work-port-img superbox-list'>
 			<img src="img/work-3.jpg" alt="" class="">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
-						<div style="display:none;" class="superbox-content">
+			<div style="display:none;" class="superbox-content">
 				<div class="work-example left">
 					<img src="img/pizza-hut-work-1.jpg" alt="pizza-hut1">
 					 <!--tweeter feed-->
