@@ -71,8 +71,17 @@
 		</div>	
 </article>
 <!--our-approach-->
-<article class="container our-tools-bg cf ">
-
+<article class="container our-tools-bg2 cf ">
+	<div class="inner">
+		<ul class="our-tools-tab">
+			<li><a href="" class="deepdive"></a></li>
+			<li><a href="" class="ux active"></a></li>
+			<li><a href="" class="commitment-journey"></a></li>
+			<li><a href="" class="design-eval"></a></li>
+			<li><a href="" class="market-catalyst"></a></li>
+			<li><a href="" class="brand-unity"></a></li>
+		</ul>
+	</div>
 </article>
 <!--our-approach-->
 
