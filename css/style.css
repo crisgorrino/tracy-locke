@@ -49,7 +49,7 @@ html{font-size: 100%; font-family: 'dine'; }
 .inner{width:980px; margin:0 auto; padding:0; position:relative;}
 
 /*--header--*/
-header.large{background-color:#00a5db; padding:10% 0%;  width: 100%; }
+header.large{background-color:#00a5db; padding: 10% 0% 10% 0%;  width: 100%; }
 header.large .logo img{width:90%; display:inline-block; }
 header.small {background-color: #00a5db; padding: 0%; position: fixed; width: 100%; z-index: 2000; top:0;  opacity:0; }
 header.small .logo{width: 9%; text-align: center;}
@@ -135,7 +135,7 @@ header [role="main-nav"] ul li {display: inline-block; padding: 1.5%;}
 header [role="main-nav"]{display: inline-block; vertical-align: middle; width: 38%; margin: 0 0 0 7%;}
 
 [role="main-nav"]{display: inline-block; vertical-align: middle; width: 38%; margin: 0 0 0 7%;}
-[role="main-nav"] ul{list-style: none; padding: 0;}
+[role="main-nav"] ul{list-style: none; padding: 0; margin:0;}
 [role="main-nav"] ul li{display: inline-block; padding: 2%;}
 [role="main-nav"] ul li a{display: block; color:#fff; text-decoration: none; font-size: .9em; font-family: 'dine';}
 [role="main-nav"] ul li.current a{color:#000; }
