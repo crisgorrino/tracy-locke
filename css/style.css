@@ -992,7 +992,7 @@ footer a:nth-child(1) {margin-bottom: 2%;}
 .home-post h3{width:50%;}
 .home-post p{width: 70%;}
 .dots-bg {height: 1135px; background-position: 50% 69%;}
-.logos-container ul li img{ width:85%; display: block;}
+.logos-container ul li img{ width:100%; display: block;}
 
 /*--buy design--*/
 .buy-design-h1 {margin-top: -3.5%;}
