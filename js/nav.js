@@ -162,82 +162,71 @@ $(document).ready(function(){
 $('#tab-container-locations').easytabs();
 
 
-//office scroll
-/*var autotabs=false;
-var valTop2= parseInt($('.office-location-cont').offset().top);
-$(document).on("scroll",function(){
 
-		if($(document).scrollTop()>=valTop2){
-				//$('body').css('overflow', 'hidden');
-				if(autotabs==false){
-					//$('body').mousewheel(function(event){return false;});
-					$('body').css('overflow', 'hidden')
-					//officeChange();
-				}
-				
-				$('.locations .tab').last().bind('DOMSubtreeModified', function() {
-						
-				});	
-						
-			}			
-});	*/
+ // ToDo: - Handle animation of elements when a city link is clicked
+ /* var locationDivs;
+  var locationListItems;
+  var previousAddressBlockTween;
+  var previousCityLinkTween;
 
-/*function officeChange(){
-	//$('.locations li').removeClass('active');	
-	var tiempo=2000;
-	$('#tab-container-locations').easytabs('select','#dallas');
-	
-	setTimeout(function(){
-		$('#tab-container-locations').easytabs('select','#wilton');	
-		//
-		setTimeout(function(){
-			$('#tab-container-locations').easytabs('select','#soho');	
-			//
-			setTimeout(function(){
-				$('#tab-container-locations').easytabs('select','#sf');	
-				//
-				setTimeout(function(){
-					$('#tab-container-locations').easytabs('select','#bentonville');	
-					//
-					setTimeout(function(){
-						$('#tab-container-locations').easytabs('select','#field');	
-						//
-						setTimeout(function(){
-							$('#tab-container-locations').easytabs('select','#dubai');	
-							//
-							setTimeout(function(){
-								$('#tab-container-locations').easytabs('select','#london');	
-								//
-								setTimeout(function(){
-									$('#tab-container-locations').easytabs('select','#mumba');	
-									//
-									setTimeout(function(){
-										$('#tab-container-locations').easytabs('select','#paris');	
-										//
-										//aqui activar scroll
-										autotabs=true;
-										//$('body').mousewheel(function(event){return true;});
-										$('body').css('overflow', 'auto')
-									}, tiempo);
-									
-								}, tiempo);
-								
-							}, tiempo);
-							
-						}, tiempo);
-						
-					}, tiempo);
-					
-				}, tiempo);
-				
-			}, tiempo);
-			
-		}, tiempo);
-		
-	}, tiempo);
-	
-	
-}*/
+  $(document).ready( function() 
+  {
+    locationDivs = ["#dallas", "#wilton", "#soho", "#sf", "#bentonville", "#field", "#dubai", "#london", "#mumba", "#paris"];
+    locationListItems = $("#tab-container-locations .tab").toArray();
+
+    // Scrollmagic Setup
+    scrollController = new ScrollMagic();
+
+    // Add city list-items
+    $.each( locationListItems, function( index, element ) 
+    {
+      var cityLink = $( element );
+      var addressBlock = $(locationDivs[index]);
+      
+      var cityLinkTween = TweenMax.to( cityLink, .5, { left: "140px", paused: true });
+      var addressBlockTween = TweenMax.to( addressBlock, .3, { left: "10px", paused: true });
+
+      var scene = new ScrollScene({triggerElement: cityLink, duration: 30, offset: -150})
+          .addTo(scrollController)
+          .on("enter", function(event) {
+          	clearPreviousTweens();
+            cityLinkTween.play();
+            addressBlockTween.play();
+            setPreviousTweens();
+          })
+          .on("leave", function(event) {
+            cityLinkTween.reverse();
+            addressBlockTween.reverse();
+          });
+
+       // City link list clicks
+       cityLink.click(function() {
+       	clearPreviousTweens();
+       	addressBlockTween.play();
+       	cityLinkTween.play();
+       	setPreviousTweens();
+       })
+
+       function clearPreviousTweens()
+       {
+       	if( previousAddressBlockTween && previousCityLinkTween )
+       	{
+       		previousAddressBlockTween.reverse();
+       		previousCityLinkTween.reverse();
+       	}
+       }
+
+       function setPreviousTweens()
+       {
+       	previousAddressBlockTween = addressBlockTween;
+       	previousCityLinkTween = cityLinkTween;
+       }
+         
+
+    });
+
+  });*/
+
 
 /**mobile nav toggle**/
 $('.mobile-nav-toogle-btn').click(function(e){
