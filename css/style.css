@@ -295,7 +295,7 @@ footer a.icon-facebook{margin:1% 0;}
 /*--our approach--*/
 .our-tools-bg{height: 750px; /*background-image: url(../img/our-tools-bg.jpg); */background-color: #eae8e0;background-position: 50% 104%;background-repeat: no-repeat; }
 .our-tools-bg2{height: auto;background-color: #eae8e0;background-position: 50% 104%;background-repeat: no-repeat; padding: 50px 0 100px 0;}
-.our-approach{height:395px; background-image: url(../img/art-science-bg.jpg); background-position: 50% 0%; background-size:105%; background-repeat: no-repeat; position:relative; top:20%;}
+.our-approach{height:395px; background-image: url(../img/tools-bg.jpg); background-position: 50% 0%; background-size:105%; background-repeat: no-repeat; position:relative; top:20%;}
 .our-approach-h2{color:#fff; font-family: 'bebas'; font-size: 8em; width:18%; line-height: .75em; position: absolute;z-index: 10; margin-top: 327px; left: 10%; font-weight: normal;}
 .our-approach-h2 span{font-size: .12em;display: block;line-height: 1.6em;padding: 0 0 1% 1%;}
 .our-tools-info{width:43%; position: absolute; top:45%; left:24.3%;}
