@@ -1,21 +1,21 @@
 <!--our offices-->
-<article class="container offices" data-type="background" data-speed="10">	
+<article class="container offices" data-type="background" data-speed="14">	
 		<h2 class="offices-h2">OUR<br> OFFICES</h2><a name="contact"></a>	
 </article>
 <a id="office-stop"></a>
 <article class="container office-location-cont">
 	<section class="inner cf" id="tab-container-locations">
 		<ul class="etabs locations">
-			<li class='tab' data-scroll-reveal="enter left and move 50px over .33s and reset"><a href="#dallas">DALLAS</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 55px over .43s and reset over .66s"><a href="#wilton">WILTON</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 60px over .53s and reset over .66s"><a href="#soho">SOHO</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 65px over 1.03s reset over .66s"><a href="#sf">SAN FRANCISCO</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 70px over 1.13s reset over .66s"><a href="#bentonville">BENTONVILLE</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 75px over 1.23s reset over .66s"><a href="#field">FIELD</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 80px over 1.33s reset over .66s"><a href="#dubai">DUBAI</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 85px over 1.43s reset over .66s"><a href="#london">LONDON</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 90px over 1.53s reset over .66s"><a href="#mumba">MUMBAI</a></li>
-			<li class='tab' data-scroll-reveal="enter left and move 95px over 2.3s reset over .66s"><a href="#paris">PARIS</a></li>
+			<li class='tab dallas' data-scroll-reveal="enter left and move 50px over .33s and reset"><a href="#dallas">DALLAS</a></li>
+			<li class='tab willton' data-scroll-reveal="enter left and move 55px over .43s and reset over .66s"><a href="#wilton">WILTON</a></li>
+			<li class='tab soho' data-scroll-reveal="enter left and move 60px over .53s and reset over .66s"><a href="#soho">SOHO</a></li>
+			<li class='tab sf' data-scroll-reveal="enter left and move 65px over 1.03s reset over .66s"><a href="#sf">SAN FRANCISCO</a></li>
+			<li class='tab bentonville' data-scroll-reveal="enter left and move 70px over 1.13s reset over .66s"><a href="#bentonville">BENTONVILLE</a></li>
+			<li class='tab field' data-scroll-reveal="enter left and move 75px over 1.23s reset over .66s"><a href="#field">FIELD</a></li>
+			<li class='tab dubai' data-scroll-reveal="enter left and move 80px over 1.33s reset over .66s"><a href="#dubai">DUBAI</a></li>
+			<li class='tab london' data-scroll-reveal="enter left and move 85px over 1.43s reset over .66s"><a href="#london">LONDON</a></li>
+			<li class='tab mumbai' data-scroll-reveal="enter left and move 90px over 1.53s reset over .66s"><a href="#mumba">MUMBAI</a></li>
+			<li class='tab paris' data-scroll-reveal="enter left and move 95px over 2.3s reset over .66s"><a href="#paris">PARIS</a></li>
 		</ul>
 		<!--Dallas-->
 		<div class="address-cont" id="dallas" data-scroll-reveal="enter right and move 15px over 1.33s and reset over .66s">

@@ -238,4 +238,55 @@ $('.mobile-nav-toogle-btn').click(function(e){
 //fade in for our offices
 window.scrollReveal = new scrollReveal();
 
+
+//OFFICES BG CHANGE FUNCTIONS
+$('.dallas').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/dallas.jpg)');
+});
+
+/*$('.willton').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/willton.jpg)');
+});*/
+
+$('.soho').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/nyc.jpg)');
+});
+
+$('.sf').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/sanfran.jpg)');
+});
+
+/*$('.bentonville').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/bentonville.jpg)');
+});*/
+
+$('.field').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/field.jpg)');
+});
+
+$('.dubai').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/dubai.jpg)');
+});
+
+$('.london').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/london.jpg)');
+});
+
+$('.mumbai').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/mumbai.jpg)');
+});
+
+$('.paris').click(function(e){
+	e.preventDefault();
+	$('.offices').css('background-image','url(img/offices/paris.jpg)');
+});
 	

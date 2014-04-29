@@ -202,7 +202,7 @@ footer a.icon-facebook{margin:1% 0;}
 
 /*--offices--*/
 
-.offices{height:373px; background-image: url(../img/offices-bg.jpg); background-size: 100%; background-position: 50% 0%; background-repeat: no-repeat;  position:relative;  background-size: 100%; }
+.offices{height:373px; /*background-image: url(../img/offices-bg.jpg);*/ background-image: url(../img/offices/dallas.jpg); background-size: 100%; background-position: 50% 0%; background-repeat: no-repeat;  position:relative;  background-size: 100%; }
 
 .offices h2{color:#fff; font-family: 'bebas'; font-size: 8em; width:18%; line-height: .75em; position: absolute;z-index: 10;margin-top: -3.5%;left: 10%; font-weight: normal;}
 .office-location-cont{height:650px; background-image: url(../img/inv-doted-bg.gif); background-color: #eaeaea; background-position: 50% 160%; background-repeat: no-repeat;}
