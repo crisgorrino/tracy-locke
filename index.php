@@ -98,7 +98,7 @@
 <!--partners-->
 
 <!--chatter-->
-<article class="container chatter" data-type="background" data-speed="5">	
+<article class="container chatter" data-type="background" data-speed="9">	
 		<h2 class="chatter-h2">AGENCY<br> CHATTER <a href="">SEE ALL</a></h2>	
 </article>
 <!--character-->
