@@ -525,7 +525,9 @@ footer a.icon-facebook{margin:1% 0;}
 
 #sidebar-wrapper {margin-right:-250px; right:0; width:250px; background:#000; position:fixed; height:100%; z-index:10000;-webkit-transition: all 0.3s ease .1s; -moz-transition: all 0.3s ease .1s;-ms-transition: all 0.3s ease .1s; -o-transition: all 0.3s ease .1s; transition: all 0.3s ease .1s;}
 
-#sidebar-wrapper2{margin-right:-500px; background-color: #00a5db; right:0; width:160px; position: fixed;  height: 92%; overflow-y: auto; z-index:1000;  padding:70px 20px 20px 20px; -webkit-transition: all 0.3s ease .1s; -moz-transition: all 0.3s ease .1s;-ms-transition: all 0.3s ease .1s; -o-transition: all 0.3s ease .1s; transition: all 0.3s ease .1s;}
+#sidebar-wrapper2{margin-right:-500px; background-color: #00a5db; right:0; width:160px; position: fixed;  height: 92%; overflow-y: auto; z-index:1000;  padding:70px 20px 20px 20px; -webkit-transition: all 0.3s ease .1s; -moz-transition: all 0.3s ease .1s;-ms-transition: all 0.3s ease .1s; -o-transition: all 0.3s ease .1s; transition: all 0.3s ease .1s; overflow-y: hidden; }
+
+#sidebar-wrapper2:hover{ overflow-y: scroll; }
 
 .sidebar-nav {position: relative; top: 0; width:525px; list-style:none; margin:0; padding: 0;}
 
@@ -539,8 +541,9 @@ footer a.icon-facebook{margin:1% 0;}
 
 #sidebar-wrapper2.active {right:0px; width: 425px; -webkit-transition: all 0.2s ease .1s; -moz-transition: all 0.2s ease .1s; -ms-transition: all 0.2s ease .1s;      -o-transition: all 0.2s ease .1s; transition: all 0.2s ease .1s;}
 
-.talents {float: left;display: inline-block;height: 100%;overflow-y: scroll;}
+.talents {float: left;display: inline-block;height: 100%;overflow-y: hidden;}
 
+.talents:hover {float: left;display: inline-block;height: 100%;overflow-y: scroll;}
 .sideHeader span{font-family: bebas !important;color: white;font-size: 5em;}
 
 .sideTwo {margin-left: 24px;}
