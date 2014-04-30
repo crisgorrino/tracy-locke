@@ -327,11 +327,23 @@ footer a.icon-facebook{margin:1% 0;}
 .our-tools-tab li a:hover{opacity:.8; -webkit-transition: all 0.3s ease .1s; -moz-transition: all 0.3s ease .1s;-ms-transition: all 0.3s ease .1s; -o-transition: all 0.3s ease .1s; transition: all 0.3s ease .1s;}
 .our-tools-tab li a.active{height: 250px;}
 .deepdive{background-image: url(../img/our-tools-imgs/deep-dive.jpg);}
-.ux{background-image: url(../img/our-tools-imgs/ux-lrg.jpg);}
+.deepdive.active{background-image: url(../img/our-tools-imgs/ux-lrg.jpg);}
+
+.ux{background-image: url(../img/our-tools-imgs/deep-dive.jpg);}
+.ux.active{background-image: url(../img/our-tools-imgs/ux-lrg.jpg);}
+
 .commitment-journey{background-image: url(../img/our-tools-imgs/commitment-journey.jpg);}
+.commitment-journey.active{background-image: url(../img/our-tools-imgs/ux-lrg.jpg);}
+
 .design-eval{background-image: url(../img/our-tools-imgs/3-c-design-eval.jpg);}
+.design-eval.active{background-image: url(../img/our-tools-imgs/ux-lrg.jpg);}
+
 .market-catalyst{background-image: url(../img/our-tools-imgs/market-catalyst.jpg);}
+.market-catalyst.active{background-image: url(../img/our-tools-imgs/ux-lrg.jpg);}
+
 .brand-unity{background-image: url(../img/our-tools-imgs/brand-unity.jpg);}
+.brand-unity.active{background-image: url(../img/our-tools-imgs/ux-lrg.jpg);}
+
 
 .our-tools-gray-cont{width: 100%;position: absolute;z-index: 0;background-color:#cccccc;height: 350px;top: 191px;}
 .our-tools-info-cont{position: relative;top: 141px;left: 0;float: left;}

@@ -71,18 +71,64 @@
 		</div>	
 </article>
 <!--our-approach-->
-<article class="container our-tools-bg2 cf ">
-
-		<ul class="our-tools-tab">
-			<li><a href="" class="deepdive"></a></li>
-			<li><a href="" class="ux active"></a></li>
-			<li><a href="" class="commitment-journey"></a></li>
-			<li><a href="" class="design-eval"></a></li>
-			<li><a href="" class="market-catalyst"></a></li>
-			<li><a href="" class="brand-unity"></a></li>
+<article class="container our-tools-bg2 cf " id="tool-tabs">
+		<ul class="our-tools-tab ">
+			<li><a href="#tools-1" class="deepdive"></a></li>
+			<li><a href="#tools-2" class="deepdive"></a></li>
+			<li><a href="#tools-3" class="commitment-journey"></a></li>
+			<li><a href="#tools-4" class="design-eval"></a></li>
+			<li><a href="#tools-5" class="market-catalyst"></a></li>
+			<li><a href="#tools-6" class="brand-unity"></a></li>
 		</ul>
 		<div class="our-tools-gray-cont"></div>
-		<div class="our-tools-info-cont">
+		<div class="our-tools-info-cont" id="tools-1">
+				<img src="img/work-4.jpg" alt="" class="">
+				<div class="our-tools-info-info">
+					<h2>TAKING A HOLISTIC VIEW.</h2>
+					<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					<a href="">SEE THE PROJECT</a>
+				</div>	
+			</div>
+			
+			<div class="our-tools-info-cont" id="tools-2" style="display:none;">
+				<img src="img/work-4.jpg" alt="" class="">
+				<div class="our-tools-info-info">
+					<h2>TAKING A HOLISTIC VIEW.</h2>
+					<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					<a href="">SEE THE PROJECT</a>
+				</div>	
+			</div>
+			
+			<div class="our-tools-info-cont" id="tools-3" style="display:none;">
+				<img src="img/work-4.jpg" alt="" class="">
+				<div class="our-tools-info-info">
+					<h2>TAKING A HOLISTIC VIEW.</h2>
+					<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					<a href="">SEE THE PROJECT</a>
+				</div>	
+			</div>
+			<div class="our-tools-info-cont" id="tools-4" style="display:none;">
+				<img src="img/work-4.jpg" alt="" class="">
+				<div class="our-tools-info-info">
+					<h2>TAKING A HOLISTIC VIEW.</h2>
+					<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					<a href="">SEE THE PROJECT</a>
+				</div>	
+			</div>
+			<div class="our-tools-info-cont" id="tools-5" style="display:none;">
+				<img src="img/work-4.jpg" alt="" class="">
+				<div class="our-tools-info-info">
+					<h2>TAKING A HOLISTIC VIEW.</h2>
+					<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					<a href="">SEE THE PROJECT</a>
+				</div>	
+			</div>
+			<div class="our-tools-info-cont" id="tools-6" style="display:none;">
 				<img src="img/work-4.jpg" alt="" class="">
 				<div class="our-tools-info-info">
 					<h2>TAKING A HOLISTIC VIEW.</h2>
@@ -104,8 +150,9 @@
 </section>
 <script src="js/jquery-1.8.3.js"></script>
 <script src="js/scrollReveal.js"></script>
-<!--<script src="js/jquery.hashchange.min.js" type="text/javascript"></script>-->
-<script src="js/jquery.easytabs.min.js" type="text/javascript"></script> 
+<script src="js/jquery.easytabs.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script> 
+<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
 <script type="text/javascript" src="js/nav.js"></script>
 <script type="text/javascript" src="js/matchMedia.js"></script>
 <script type="text/javascript">
@@ -115,11 +162,8 @@ if (matchMedia('only screen and (min-width: 1024px)').matches) {
 document.write('<script src=js/parallax.js' + '><\/script>' );
 
 }
-</script> 
-<script type="text/javascript">
-    $(document).ready( function() {
-      $('#tab-container').easytabs();
-    });
 </script>
+
+
 </body>
 </html> 

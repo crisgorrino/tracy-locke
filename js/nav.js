@@ -180,7 +180,9 @@ $(document).ready(function(){
 		});
 	});
 
+$('#tool-tabs').easytabs();
 $('#tab-container-locations').easytabs();
+
 
 
 /**mobile nav toggle**/
