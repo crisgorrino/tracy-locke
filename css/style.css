@@ -27,6 +27,17 @@ html{font-size: 100%; font-family: 'dine'; }
        transition: 0.60s ease;  }
 
 .container-push.active {
+       -webkit-transform: translate(-250px, 0px);
+       -moz-transform: translate(-250px, 0px);
+       -o-transform: translate(-250px, 0px);
+       -ms-transform: translate(-250px, 0px);
+       transform: translate(-250px, 0px);  
+       -webkit-transition: 0.60s ease;
+       -moz-transition: 0.60s ease;
+       -o-transition: 0.60s ease;
+       transition: 0.60s ease;}
+       
+.container-push.detail {
        -webkit-transform: translate(-450px, 0px);
        -moz-transform: translate(-450px, 0px);
        -o-transform: translate(-450px, 0px);
@@ -36,6 +47,7 @@ html{font-size: 100%; font-family: 'dine'; }
        -moz-transition: 0.60s ease;
        -o-transition: 0.60s ease;
        transition: 0.60s ease;}
+
 
 /*--buttons--*/
 .blk-border-btn{border:2px solid #000; display: inline-block; padding:2px 5px; text-decoration: none; color:#000; -o-transition: all 0.20s ease-in;-webkit-transition: all 0.20s ease-in;-moz-transition: all 0.20s ease-in;transition: all 0.20s ease-in;}
@@ -602,11 +614,13 @@ footer a.icon-facebook{margin:1% 0;}
 	} /* this targets the default scrollbar (compulsory) */
 	
 	::-webkit-scrollbar-track {
-		  background-color: #fff;
+		  background-color: rgba(255, 255, 255, 1);
 	} /* the new scrollbar will have a flat appearance with the set background color */
 
+	
 	::-webkit-scrollbar-thumb {
 		  background-color: rgba(0, 0, 0, 0.7); 
+		  
 	} /* this will style the thumb, ignoring the track */
 
 	::-webkit-scrollbar-button {

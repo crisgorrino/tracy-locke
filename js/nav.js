@@ -58,7 +58,8 @@ $(document).on("scroll",function(){
               $('#sidebar-wrapper.active').css('right','0px').animate();
               $("#sidebar-wrapper").removeClass("active").animate();
               $(document.body).not('.sidebar-wrapper').css('overflow', 'auto');
-              $('.container-push').removeClass('active');      
+              $('.container-push').removeClass('active');    
+              $('.container-push').removeClass('detail');      
              }
           
        else{
@@ -108,6 +109,7 @@ $(document).on("scroll",function(){
         $('.people-city').hide();
 		$('.people-disc').hide();
 		$('.people-brand').hide();
+		 $('.container-push').addClass('detail'); 
     });
                 
 /*--custom scroll bar--*/
