@@ -556,6 +556,9 @@ footer a.icon-facebook{margin:1% 0;}
 .talents {float: left;display: inline-block;height: 100%;overflow-y: hidden;}
 
 .talents:hover {float: left;display: inline-block;height: 100%;overflow-y: scroll;}
+
+.talent a{}
+
 .sideHeader span{font-family: bebas !important;color: white;font-size: 5em;}
 
 .sideTwo {margin-left: 24px;}

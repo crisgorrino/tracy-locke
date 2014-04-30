@@ -111,6 +111,25 @@ $(document).on("scroll",function(){
 		$('.people-brand').hide();
 		 $('.container-push').addClass('detail'); 
     });
+          
+//Talent img hover
+$('.talent a').mouseenter(function(){
+	var img_src =$(this).children().data('src');
+	$(this).children().animate({opacity:.5},150,
+		function() {
+      $(this).attr('src',img_src).animate({opacity:1},150);
+    });
+});
+
+$('.talent a').mouseout(function(){
+	var img_src =$(this).children().data('first-src');
+	$(this).children().animate({opacity:.5},150,
+		function() {
+      $(this).attr('src',img_src).animate({opacity:1},150);
+    });
+	})
+          
+          
                 
 /*--custom scroll bar--*/
 	  $(document).ready(function () {
@@ -162,72 +181,6 @@ $(document).ready(function(){
 	});
 
 $('#tab-container-locations').easytabs();
-
-
-
- // ToDo: - Handle animation of elements when a city link is clicked
- /* var locationDivs;
-  var locationListItems;
-  var previousAddressBlockTween;
-  var previousCityLinkTween;
-
-  $(document).ready( function() 
-  {
-    locationDivs = ["#dallas", "#wilton", "#soho", "#sf", "#bentonville", "#field", "#dubai", "#london", "#mumba", "#paris"];
-    locationListItems = $("#tab-container-locations .tab").toArray();
-
-    // Scrollmagic Setup
-    scrollController = new ScrollMagic();
-
-    // Add city list-items
-    $.each( locationListItems, function( index, element ) 
-    {
-      var cityLink = $( element );
-      var addressBlock = $(locationDivs[index]);
-      
-      var cityLinkTween = TweenMax.to( cityLink, .5, { left: "140px", paused: true });
-      var addressBlockTween = TweenMax.to( addressBlock, .3, { left: "10px", paused: true });
-
-      var scene = new ScrollScene({triggerElement: cityLink, duration: 30, offset: -150})
-          .addTo(scrollController)
-          .on("enter", function(event) {
-          	clearPreviousTweens();
-            cityLinkTween.play();
-            addressBlockTween.play();
-            setPreviousTweens();
-          })
-          .on("leave", function(event) {
-            cityLinkTween.reverse();
-            addressBlockTween.reverse();
-          });
-
-       // City link list clicks
-       cityLink.click(function() {
-       	clearPreviousTweens();
-       	addressBlockTween.play();
-       	cityLinkTween.play();
-       	setPreviousTweens();
-       })
-
-       function clearPreviousTweens()
-       {
-       	if( previousAddressBlockTween && previousCityLinkTween )
-       	{
-       		previousAddressBlockTween.reverse();
-       		previousCityLinkTween.reverse();
-       	}
-       }
-
-       function setPreviousTweens()
-       {
-       	previousAddressBlockTween = addressBlockTween;
-       	previousCityLinkTween = cityLinkTween;
-       }
-         
-
-    });
-
-  });*/
 
 
 /**mobile nav toggle**/
@@ -291,4 +244,6 @@ $('.paris').click(function(e){
 	e.preventDefault();
 	$('.offices').css('background-image','url(img/offices/paris.jpg)');
 });
+
+
 	
