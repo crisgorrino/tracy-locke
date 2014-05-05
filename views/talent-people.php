@@ -3,44 +3,124 @@
     <div id="sidebar-wrapper" class='scroll-container'>	
 	     <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><img src="img/people-icon.png" alt="ico"></a>
 	      <ul class="sidebar-nav talents">
-	       <h2 class="sidebar-header">OUR TALENT</h2>
-	       <div class="slide-filter-container">
-				<span class="current"><a href="">ALL</a></span>
-				
-				<span class="brand one"><a href="" id="people-city">CITY</a>
-					<div class="people-city">
-						<a href="">San Diego</a>
-						<a href="">Chestertonville</a>
-						<a href="">Little Dixie</a>
-					</div>
-				</span>
-				
-				<span class="brand two"><a href="" id="people-disc">DISCIPLINE</a>
-					<div class="people-disc">
-						<a href="">San Diego</a>
-						<a href="">Chestertonville</a>
-						<a href="">Little Dixie</a>
-					</div>
-				</span>
-				
-				<span class="brand three"><a href="" id="people-brand">BRAND</a>
-					<div class="people-brand">
-						<a href="">San Diego</a>
-						<a href="">Chestertonville</a>
-						<a href="">Little Dixie</a>
-					</div>
-				</span>
-				
-			</div>
-	        <li class="talent"><a href="#" class="staff-toggle"><img src="img/one.jpg"  data-src="img/talent-active-manny.jpg" data-first-src="img/one.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/two.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/two.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/three.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/three.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/four.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/four.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/five.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/five.jpg"></a></li>
-	        <li class="talent"><a href="#" class="staff-toggle"><img src="img/six.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/six.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/seven.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/seven.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/eight.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/eight.jpg"></a></li>
-	        <li class="talent"><a href="#"><img src="img/nine.jpg" data-src="img/talent-active-manny.jpg" data-first-src="img/nine.jpg"></a></li>
+		       <h2 class="sidebar-header">OUR TALENT</h2>
+		       <div class="slide-filter-container">
+					<span class="current"><a href="">ALL</a></span>
+					
+					<span class="brand one"><a href="" id="people-city">CITY</a>
+						<div class="people-city">
+							<a href="">San Diego</a>
+							<a href="">Chestertonville</a>
+							<a href="">Little Dixie</a>
+						</div>
+					</span>
+					
+					<span class="brand two"><a href="" id="people-disc">DISCIPLINE</a>
+						<div class="people-disc">
+							<a href="">San Diego</a>
+							<a href="">Chestertonville</a>
+							<a href="">Little Dixie</a>
+						</div>
+					</span>
+					
+					<span class="brand three"><a href="" id="people-brand">BRAND</a>
+						<div class="people-brand">
+							<a href="">San Diego</a>
+							<a href="">Chestertonville</a>
+							<a href="">Little Dixie</a>
+						</div>
+					</span>
+					
+				</div>
+				<!--Jay verna-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle jay-verna">
+		        		<p class="talent-name">Jay<br>Verna</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!--Jay verna-->
+		        <!--Lindsay-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle lindsey">
+			        	<p class="talent-name">Lindsay<br>Weisgerber</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		       <!--Kyle-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle kyle">
+			        	<p class="talent-name">Kyle<br>Zamzow</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!--Kyle-->
+		         <!--michael-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle michael">
+			        	<p class="talent-name">Michael<br>Whitman</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!--michael-->
+		        <!-- lindsay-2-->
+		        <li class="talent">
+		       		<a href="#" class="staff-toggle lindsay-2">
+			       		<p class="talent-name">Lindsay<br>Weisgerber</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		       		</a>
+		       	</li>
+		       	 <!-- lindsay-2-->
+		       	 <!-- manuel-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle manuel">
+			        	<p class="talent-name">Manuel<br>Herrera</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!-- manuel-->
+		        <!-- adrienne-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle adrienne">
+			        	<p class="talent-name">Adrienne<br>Tucker</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!-- adrienne-->
+		        <!-- michael-m-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle michael-m">
+			        	<p class="talent-name">Michael<br>Mccorkle</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!-- michael-m-->
+		        <!-- matt-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle matt">
+			        	<p class="talent-name">Matt<br>Brinker</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		         <!-- matt-->
 	       </ul>
     <!--first-->
     <!--second-->         

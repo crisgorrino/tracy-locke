@@ -109,11 +109,13 @@ $(document).on("scroll",function(){
         $('.people-city').hide();
 		$('.people-disc').hide();
 		$('.people-brand').hide();
-		 $('.container-push').addClass('detail'); 
+		$('.container-push').addClass('detail');
+		$('.staff-toggle').removeClass('active').not(this);
+		$(this).addClass('active');
     });
           
 //Talent img hover
-$('.talent a').mouseenter(function(){
+/*$('.talent a').mouseenter(function(){
 	var img_src =$(this).children().data('src');
 	$(this).children().animate({opacity:.5},150,
 		function() {
@@ -128,7 +130,7 @@ $('.talent a').mouseout(function(){
       $(this).attr('src',img_src).animate({opacity:1},150);
     });
 	})
-          
+ */
           
                 
 /*--custom scroll bar--*/
