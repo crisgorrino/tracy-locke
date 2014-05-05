@@ -4,6 +4,7 @@
 	     <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><img src="img/people-icon.png" alt="ico"></a>
 	      <ul class="sidebar-nav talents">
 		       <h2 class="sidebar-header">OUR TALENT</h2>
+		       <!--filters-->
 		       <div class="slide-filter-container">
 					<span class="current"><a href="">ALL</a></span>
 					
@@ -32,6 +33,7 @@
 					</span>
 					
 				</div>
+				 <!--filters-->
 				<!--Jay verna-->
 		        <li class="talent">
 		        	<a href="#" class="staff-toggle jay-verna">
