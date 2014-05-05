@@ -76,13 +76,15 @@
 			<!--deep dive-->
 			<li class="cf">
 				<a href="#tools-1" class="deepdive">
+					
 					<span class="orignal-state">
 						<img src="img/our-tools-imgs/deep-dive-ico.png" alt="deep-dive">
-						<span>DEEP<br>DIVE</span>
+						<p>DEEP<br>DIVE</p>
 					</span>
+					
 					<span class="active-state">
 						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
-						<span>DEEP<br>DIVE</span>
+						<p>DEEP<br>DIVE</p>
 					</span>
 				</a>
 			</li>
@@ -92,52 +94,68 @@
 				<a href="#tools-2" class="ux">
 					<span class="orignal-state">
 						<img src="img/our-tools-imgs/deep-dive-ico.png" alt="deep-dive">
-						<span>USER<br>EXPERIENCE</span>
+						<p>USER<br>EXPERIENCE</p>
 					</span>
 					<span class="active-state">
 						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
-						<span>DEEP<br>DIVE</span>
+						<p>USER<br>EXPERIENCE</p>
 					</span>
 				</a>
 			</li>
 			<!--UX-->
 			<!--commitment-journey-->
 			<li class="cf">
-				<a href="#tools-3" class="commitment-journey">
-					
+				<a href="#tools-3" class="commitment-journey">					
 					<span class="orignal-state">
 						<img src="img/our-tools-imgs/commitment-journey-ico.png" alt="deep-dive">
-						<span>COMMITMENT<br>JOURNEY</span>
+						<p>COMMITMENT<br>JOURNEY</p>
 					</span>
-					
 					<span class="active-state">
 						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
-						<span>DEEP<br>DIVE</span>
-					</span>
+						<p>COMMITMENT<br>JOURNEY</p>
+					</span>					
 				</a>
 			</li>
 			<!--commitment-journey-->
 			<!--design-eval-->
 			<li class="cf">
 				<a href="#tools-4" class="design-eval">
-					<img src="img/our-tools-imgs/3c-design-eval-ico.png" alt="deep-dive">
-					<span>3C DESIGN<br>EVALUATION</span>
+					<span class="orignal-state">
+						<img src="img/our-tools-imgs/3c-design-eval-ico.png" alt="deep-dive">
+						<p>3C DESIGN<br>EVALUATION</p>
+					</span>
+					<span class="active-state">
+						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<p>3C DESIGN<br>EVALUATION</p>
+					</span>	
 				</a>
 			</li>
 			<!--design-eval-->
 			<!--market-catalyst-->
 			<li class="cf">
 				<a href="#tools-5" class="market-catalyst">
-					<img src="img/our-tools-imgs/mkt-cata-ico.png" alt="deep-dive">
-					<span>MARKET<br>CATALYST</span>
+					<span class="orignal-state">
+						<img src="img/our-tools-imgs/mkt-cata-ico.png" alt="deep-dive">
+						<p>MARKET<br>CATALYST</p>
+					</span>	
+					<span class="active-state">
+						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<p>MARKET<br>CATALYST</p>
+					</span>
 				</a>
 			</li>
 			<!--market-catalyst-->
 			<!--brand-unity-->
 			<li class="cf">
 				<a href="#tools-6" class="brand-unity">
-					<img src="img/our-tools-imgs/brand-unity-ico.png" alt="deep-dive">
-					<span>BRAND<br>UNITY</span>
+					<span class="orignal-state">
+						<img src="img/our-tools-imgs/brand-unity-ico.png" alt="deep-dive">
+						<p>BRAND<br>UNITY</p>
+					</span>
+					<span class="active-state">
+						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<p>BRAND<br>UNITY</p>
+					</span>	
 				</a>
 			</li>
 			<!--brand-unity-->
