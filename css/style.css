@@ -588,6 +588,7 @@ footer a.icon-facebook{margin:1% 0;}
 
 .talent-arow-img{position: relative; top: 50px; left: 100px;}
 .talent a:hover .talent-hover-info{display: block; opacity:.6; }
+/*--talent active state-*/
 .talent a.active .talent-hover-info{display: block; opacity:.6; }
 
 .sideHeader span{font-family: bebas !important;color: white;font-size: 5em;}
