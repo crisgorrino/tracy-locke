@@ -1,7 +1,7 @@
  <!-- Side Menu For Staff-->
    <!--first-->
     <div id="sidebar-wrapper" class='scroll-container'>	
-	     <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><img src="img/people-icon.png" alt="ico"></a>
+	     <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"></a>
 	      <ul class="sidebar-nav talents">
 		       <h2 class="sidebar-header">OUR TALENT</h2>
 		       <!--filters-->

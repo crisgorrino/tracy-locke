@@ -564,7 +564,7 @@ footer a.icon-facebook{margin:1% 0;}
 
 .sidebar-nav li {/*line-height: 40px;text-indent: 20px;*/ display: inline-block; /*margin-right: -10px;*/}
 
-#menu-toggle {top: 0;right: 0;position: fixed; z-index: 1; margin-top: 377px; outline:0;}
+#menu-toggle {top: 0;right: 0;position: fixed; z-index: 1; margin-top: 377px; outline:0; }
 
 #sidebar-wrapper.active {right: 0px; width: 500px; padding: 0 25px; -webkit-transition: all 0.3s ease 0.1s;-moz-transition: all 0.3s ease 0.1s;-ms-transition: all 0.3s ease 0.1s;-o-transition: all 0.3s ease 0.1s; transition: all 0.3s ease 0.1s; }
 
@@ -589,7 +589,7 @@ footer a.icon-facebook{margin:1% 0;}
 
 .talent-name{position: absolute; margin:0; font-family: 'dine'; color:#fff; font-size: 1.4em; top: 45px; left: 2px; text-transform: uppercase; z-index: 2;}
 
-.talent-hover-info{position: absolute; background-color:#00a5db; opacity: 0; width:140px; height: 143px; z-index:1; -webkit-transition: opacity 0.2s ease .1s; -moz-transition: opacity 0.2s ease .1s; -ms-transition: opacity 0.2s ease .1s;      -o-transition: opacity 0.2s ease .1s; transition: opacity 0.2s ease .1s;}
+.talent-hover-info{position: absolute; background-color:#00a5db; opacity: 0; width:140px; height: 143px; z-index:1; -webkit-transition: opacity 0.2s ease .1s; -moz-transition: opacity 0.2s ease .1s; -ms-transition: opacity 0.2s ease .1s; -o-transition: opacity 0.2s ease .1s; transition: opacity 0.2s ease .1s;}
 
 .talent-arow-img{position: relative; top: 50px; left: 100px;}
 .talent a:hover .talent-hover-info{display: block; opacity:.6; }
@@ -601,9 +601,11 @@ footer a.icon-facebook{margin:1% 0;}
 
 .sideTwo {margin-left: 24px;}
 
-.toggle {margin: 5px 5px 0 0;position: absolute;z-index: 100; left: -44px; top: 48%; background-color:#000;text-decoration: none;padding: 10px;}
+.toggle {margin: 5px 5px 0 0;position: absolute;z-index: 100; left: -44px; top: 48%; background-color:#000; background-image:url(../img/people-icon.png); background-repeat: no-repeat; background-position: center center; width:44px; height:44px;text-decoration: none; -webkit-transition: all 0.2s ease .1s; -moz-transition: all 0.2s ease .1s; -ms-transition: all 0.2s ease .1s; -o-transition: all 0.2s ease .1s; transition: all 0.2s ease .1s;}
 .toggle img{display:block;}
 .toggle .icon-user{color:#fff;}
+
+.toggle:hover{background-image:url(../img/people-icon-hover.png); -webkit-transition: all 0.2s ease .1s; -moz-transition: all 0.2s ease .1s; -ms-transition: all 0.2s ease .1s; -o-transition: all 0.2s ease .1s; transition: all 0.2s ease .1s;}
 
 .sideHeader{display: block!important;}
 
