@@ -73,12 +73,74 @@
 <!--our-approach-->
 <article class="container our-tools-bg2 cf " id="tool-tabs">
 		<ul class="our-tools-tab ">
-			<li><a href="#tools-1" class="deepdive"></a></li>
-			<li><a href="#tools-2" class="deepdive"></a></li>
-			<li><a href="#tools-3" class="commitment-journey"></a></li>
-			<li><a href="#tools-4" class="design-eval"></a></li>
-			<li><a href="#tools-5" class="market-catalyst"></a></li>
-			<li><a href="#tools-6" class="brand-unity"></a></li>
+			<!--deep dive-->
+			<li class="cf">
+				<a href="#tools-1" class="deepdive">
+					<span class="orignal-state">
+						<img src="img/our-tools-imgs/deep-dive-ico.png" alt="deep-dive">
+						<span>DEEP<br>DIVE</span>
+					</span>
+					<span class="active-state">
+						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<span>DEEP<br>DIVE</span>
+					</span>
+				</a>
+			</li>
+			<!--deep dive-->
+			<!--UX-->
+			<li class="cf">
+				<a href="#tools-2" class="ux">
+					<span class="orignal-state">
+						<img src="img/our-tools-imgs/deep-dive-ico.png" alt="deep-dive">
+						<span>USER<br>EXPERIENCE</span>
+					</span>
+					<span class="active-state">
+						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<span>DEEP<br>DIVE</span>
+					</span>
+				</a>
+			</li>
+			<!--UX-->
+			<!--commitment-journey-->
+			<li class="cf">
+				<a href="#tools-3" class="commitment-journey">
+					
+					<span class="orignal-state">
+						<img src="img/our-tools-imgs/commitment-journey-ico.png" alt="deep-dive">
+						<span>COMMITMENT<br>JOURNEY</span>
+					</span>
+					
+					<span class="active-state">
+						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<span>DEEP<br>DIVE</span>
+					</span>
+				</a>
+			</li>
+			<!--commitment-journey-->
+			<!--design-eval-->
+			<li class="cf">
+				<a href="#tools-4" class="design-eval">
+					<img src="img/our-tools-imgs/3c-design-eval-ico.png" alt="deep-dive">
+					<span>3C DESIGN<br>EVALUATION</span>
+				</a>
+			</li>
+			<!--design-eval-->
+			<!--market-catalyst-->
+			<li class="cf">
+				<a href="#tools-5" class="market-catalyst">
+					<img src="img/our-tools-imgs/mkt-cata-ico.png" alt="deep-dive">
+					<span>MARKET<br>CATALYST</span>
+				</a>
+			</li>
+			<!--market-catalyst-->
+			<!--brand-unity-->
+			<li class="cf">
+				<a href="#tools-6" class="brand-unity">
+					<img src="img/our-tools-imgs/brand-unity-ico.png" alt="deep-dive">
+					<span>BRAND<br>UNITY</span>
+				</a>
+			</li>
+			<!--brand-unity-->
 		</ul>
 		<div class="our-tools-gray-cont"></div>
 		<div class="our-tools-info-cont" id="tools-1">

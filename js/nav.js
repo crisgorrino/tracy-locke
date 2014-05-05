@@ -67,7 +67,7 @@ $(document).on("scroll",function(){
            $('#sidebar-wrapper.active').css('right','250px').animate();
            /*setTimeout(function(){*/
                $(document.body).not('.sidebar-wrapper').css('overflow', 'hidden');/*},1000);*/
-            $('.container-push').addClass('active');   
+               $('.container-push').addClass('active');  
            }
 
      }

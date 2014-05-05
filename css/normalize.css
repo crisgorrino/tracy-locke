@@ -96,6 +96,7 @@ body {
 
 a {
     background: transparent;
+    outline: none;
 }
 
 /**
@@ -103,7 +104,7 @@ a {
  */
 
 a:focus {
-    outline: thin dotted;
+    outline: none;
 }
 
 /**
@@ -238,6 +239,7 @@ sub {
 
 img {
     border: 0;
+    outline: none;
 }
 
 /**
