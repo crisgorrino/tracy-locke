@@ -83,7 +83,7 @@
 					</span>
 					
 					<span class="active-state">
-						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<img src="img/our-tools-imgs/deep-dive-ico-large.png" alt="deep-dive">
 						<p>DEEP<br>DIVE</p>
 					</span>
 				</a>
@@ -93,7 +93,7 @@
 			<li class="cf">
 				<a href="#tools-2" class="ux">
 					<span class="orignal-state">
-						<img src="img/our-tools-imgs/deep-dive-ico.png" alt="deep-dive">
+						<img src="img/our-tools-imgs/ux-ico.png" alt="deep-dive">
 						<p>USER<br>EXPERIENCE</p>
 					</span>
 					<span class="active-state">
@@ -111,7 +111,7 @@
 						<p>COMMITMENT<br>JOURNEY</p>
 					</span>
 					<span class="active-state">
-						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<img src="img/our-tools-imgs/commitment-journey-ico-large.png" alt="deep-dive">
 						<p>COMMITMENT<br>JOURNEY</p>
 					</span>					
 				</a>
@@ -125,7 +125,7 @@
 						<p>3C DESIGN<br>EVALUATION</p>
 					</span>
 					<span class="active-state">
-						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<img src="img/our-tools-imgs/3c-design-eval-ico-large.png" alt="deep-dive">
 						<p>3C DESIGN<br>EVALUATION</p>
 					</span>	
 				</a>
@@ -139,7 +139,7 @@
 						<p>MARKET<br>CATALYST</p>
 					</span>	
 					<span class="active-state">
-						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<img src="img/our-tools-imgs/mkt-cata-ico-large.png" alt="deep-dive">
 						<p>MARKET<br>CATALYST</p>
 					</span>
 				</a>
@@ -153,7 +153,7 @@
 						<p>BRAND<br>UNITY</p>
 					</span>
 					<span class="active-state">
-						<img src="img/our-tools-imgs/ux-ico-large.png" alt="deep-dive">
+						<img src="img/our-tools-imgs/brand-unity-ico-large.png" alt="deep-dive">
 						<p>BRAND<br>UNITY</p>
 					</span>	
 				</a>

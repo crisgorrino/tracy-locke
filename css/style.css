@@ -346,7 +346,7 @@ footer a.icon-facebook{margin:1% 0;}
 
 .active-state{display:none; -webkit-transition: all 1s ease ; -moz-transition: all 1s ease ;-ms-transition: all 16s ease ; -o-transition: all 1s ease ; transition: all 0.6s ; opacity:0;}
 .active-state img{-webkit-transition: all 1s ease ; -moz-transition: all 1s ease;-ms-transition: all 1s ease ; -o-transition: all 1s ease ; transition: all 1s; }
-.active-state p{display: block; color:#000; font-size: 1.2em; line-height: 1em; margin:0; text-align: left; padding:25px 0 0 0;}
+.active-state p{display: block; color:#000; font-size: 1.7em; line-height: 1em; margin:0; text-align: left; padding:25px 0 0 0;}
 
 .our-tools-tab li a.active .active-state{opacity:1; -webkit-transition: all 1s ease ; -moz-transition: all 1s ease ;-ms-transition: all 1s ease ; -o-transition: all 1s ease ; transition: all 1s ; display:block;}
 
