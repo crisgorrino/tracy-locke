@@ -123,6 +123,96 @@
 		        	</a>
 		        </li>
 		         <!-- matt-->
+		         <!--Jay verna-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle jay-verna">
+		        		<p class="talent-name">Jay<br>Verna</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!--Jay verna-->
+		        <!--Lindsay-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle lindsey">
+			        	<p class="talent-name">Lindsay<br>Weisgerber</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		       <!--Kyle-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle kyle">
+			        	<p class="talent-name">Kyle<br>Zamzow</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!--Kyle-->
+		         <!--michael-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle michael">
+			        	<p class="talent-name">Michael<br>Whitman</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!--michael-->
+		        <!-- lindsay-2-->
+		        <li class="talent">
+		       		<a href="#" class="staff-toggle lindsay-2">
+			       		<p class="talent-name">Lindsay<br>Weisgerber</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		       		</a>
+		       	</li>
+		       	 <!-- lindsay-2-->
+		       	 <!-- manuel-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle manuel">
+			        	<p class="talent-name">Manuel<br>Herrera</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!-- manuel-->
+		        <!-- adrienne-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle adrienne">
+			        	<p class="talent-name">Adrienne<br>Tucker</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!-- adrienne-->
+		        <!-- michael-m-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle michael-m">
+			        	<p class="talent-name">Michael<br>Mccorkle</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		        <!-- michael-m-->
+		        <!-- matt-->
+		        <li class="talent">
+		        	<a href="#" class="staff-toggle matt">
+			        	<p class="talent-name">Matt<br>Brinker</p>
+			        	<span class="talent-hover-info">
+				        	<img src="img/talent-arrow.png" alt="&#9002;" class="talent-arow-img">
+			        	</span>
+		        	</a>
+		        </li>
+		         <!-- matt-->
+
 	       </ul>
     <!--first-->
     <!--second-->         
