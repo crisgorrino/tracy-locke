@@ -44,7 +44,7 @@
 
 <article class="container dots-bg2 work-highlights cf superbox"><!--
 		--><div  class='work-port-img superbox-list' >
-			<img src="img/work-1.jpg" alt="" class="">
+			<img data-original="img/work-1.jpg" alt="" class="lazy" width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/pizza-hut-written-out.png" alt="Tracy Locke">
 			</div>
@@ -85,7 +85,7 @@
 			</div>
 		</div><!--
 	--><div class='work-port-img superbox-list'>
-			<img src="img/work-2.jpg" alt="" class="">
+			<img data-original="img/work-2.jpg" alt="" class="lazy"  width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -126,7 +126,7 @@
 			</div>
 		</div><!--	
 		--><div class='work-port-img superbox-list'>
-			<img src="img/work-3.jpg" alt="" class="">
+			<img data-original="img/work-3.jpg" alt="" class="lazy"  width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -167,7 +167,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img src="img/work-4.jpg" alt="" class="">
+			<img data-original="img/work-4.jpg" alt="" class="lazy"  width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/pizza-hut-written-out.png" alt="Tracy Locke">
 			</div>
@@ -208,7 +208,7 @@
 			</div>		
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img src="img/work-5.jpg" alt="" class="">
+			<img data-original="img/work-5.jpg" alt="" class="lazy"  width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -249,7 +249,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img src="img/work-6.jpg" alt="" class="">
+			<img data-original="img/work-6.jpg" alt="" class="lazy"  width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -290,7 +290,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img src="img/work-7.jpg" alt="" class="">
+			<img data-original="img/work-7.jpg" alt="" class="lazy"  width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/harman.png" alt="Tracy Locke">
 			</div>
@@ -331,7 +331,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img src="img/work-8.jpg" alt="" class="">
+			<img data-original="img/work-8.jpg" alt="" class="lazy"  width="636px" height="334px">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -383,6 +383,7 @@
 <!--inlcude footer-->
 </section>
 <script src="js/jquery-1.8.3.js"></script>
+<script src="js/lazyload.js"></script>
 <script src="js/scrollReveal.js"></script>
 <script src="js/superbox.js"></script>
 <script src="js/jquery.easytabs.min.js" type="text/javascript"></script> 
@@ -408,13 +409,17 @@ document.write('<script src=js/parallax.js' + '><\/script>' );
 	});
 
 </script>
+<script type="text/javascript">
+	$(function() {
+   		 $("img.lazy").lazyload({ effect : "fadeIn"});
+    });
+</script>
 <script  type="text/javascript">
-		$(function() {
-		
+		$(function() {		
 			// Call SuperBox
 			$('.superbox').SuperBox();
 		
 		});
-		</script>
+</script>
 </body>
 </html> 
