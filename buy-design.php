@@ -70,7 +70,7 @@
 			<img src="img/our-tools-black.png" alt="" class="our-tools-black">
 		</div>	
 </article>
-<!--our-approach-->
+<!--our-approach DESKTOP-->
 <article class="container our-tools-bg2 cf " id="tool-tabs">
 		<ul class="our-tools-tab ">
 			<!--deep dive-->
@@ -218,6 +218,144 @@
 				</div>	
 			</div>
 </article>
+
+<!--Our tools Destop-->
+<article class="container our-tools-bg2 work-highlights cf superbox our-tools-mobile">
+		
+		<!--visible area-->
+		<div  class='superbox-list our-tools-mobile-item' >
+			<img src="img/our-tools-imgs/deep-dive-ico.png" alt="deep-dive">
+			<p>DEEP DIVE</p>
+			<!--visible area-->
+			<!--content-->
+			<div style="display:none;" class="superbox-content">
+				<div class="work-example left ">
+			    	<div class="our-tools-info-cont" id="tools-1">
+				    	<img src="img/work-4.jpg" alt="" class="">
+				    	<div class="our-tools-info-info">
+					    	<h2>TAKING A HOLISTIC VIEW.</h2>
+					    	<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					    	<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					    	<a href="">SEE THE PROJECT</a>
+					    </div>	
+					 </div>
+				</div>
+			</div>
+			<!--content-->
+		</div>
+		
+		<!--visible area-->
+		<div  class='superbox-list our-tools-mobile-item' >
+			<img alt="deep-dive" src="img/our-tools-imgs/ux-ico.png">
+			<p>USER EXPERIENCE</p>
+			<!--visible area-->
+			<!--content-->
+			<div style="display:none;" class="superbox-content">
+				<div class="work-example left ">
+			    	<div class="our-tools-info-cont" id="tools-1">
+				    	<img src="img/work-4.jpg" alt="" class="">
+				    	<div class="our-tools-info-info">
+					    	<h2>TAKING A HOLISTIC VIEW.</h2>
+					    	<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					    	<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					    	<a href="">SEE THE PROJECT</a>
+					    </div>	
+					 </div>
+				</div>
+			</div>
+			<!--content-->
+		</div>	
+		
+		<!--visible area-->
+		<div  class='superbox-list our-tools-mobile-item' >
+			<img alt="deep-dive" src="img/our-tools-imgs/commitment-journey-ico.png">
+			<p>COMMITMENT JOURNEY</p>
+			<!--visible area-->
+			<!--content-->
+			<div style="display:none;" class="superbox-content">
+				<div class="work-example left ">
+			    	<div class="our-tools-info-cont" id="tools-1">
+				    	<img src="img/work-4.jpg" alt="" class="">
+				    	<div class="our-tools-info-info">
+					    	<h2>TAKING A HOLISTIC VIEW.</h2>
+					    	<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					    	<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					    	<a href="">SEE THE PROJECT</a>
+					    </div>	
+					 </div>
+				</div>
+			</div>
+			<!--content-->
+		</div>	
+		
+		<!--visible area-->
+		<div  class='superbox-list our-tools-mobile-item' >
+			<img alt="deep-dive" src="img/our-tools-imgs/3c-design-eval-ico.png">
+			<p>3C DESIGN EVALUATION</p>
+			<!--visible area-->
+			<!--content-->
+			<div style="display:none;" class="superbox-content">
+				<div class="work-example left ">
+			    	<div class="our-tools-info-cont" id="tools-1">
+				    	<img src="img/work-4.jpg" alt="" class="">
+				    	<div class="our-tools-info-info">
+					    	<h2>TAKING A HOLISTIC VIEW.</h2>
+					    	<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					    	<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					    	<a href="">SEE THE PROJECT</a>
+					    </div>	
+					 </div>
+				</div>
+			</div>
+			<!--content-->
+		</div>	
+		
+		<!--visible area-->
+		<div  class='superbox-list our-tools-mobile-item' >
+			<img alt="deep-dive" src="img/our-tools-imgs/mkt-cata-ico.png">
+			<p>MARKET CATALYST</p>
+			<!--visible area-->
+			<!--content-->
+			<div style="display:none;" class="superbox-content">
+				<div class="work-example left ">
+			    	<div class="our-tools-info-cont" id="tools-1">
+				    	<img src="img/work-4.jpg" alt="" class="">
+				    	<div class="our-tools-info-info">
+					    	<h2>TAKING A HOLISTIC VIEW.</h2>
+					    	<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					    	<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					    	<a href="">SEE THE PROJECT</a>
+					    </div>	
+					 </div>
+				</div>
+			</div>
+			<!--content-->
+		</div>	
+		
+		<!--visible area-->
+		<div  class='superbox-list our-tools-mobile-item' >
+			<img alt="deep-dive" src="img/our-tools-imgs/brand-unity-ico.png">
+			<p>BRAND UNITY</p>
+			<!--visible area-->
+			<!--content-->
+			<div style="display:none;" class="superbox-content">
+				<div class="work-example left ">
+			    	<div class="our-tools-info-cont" id="tools-1">
+				    	<img src="img/work-4.jpg" alt="" class="">
+				    	<div class="our-tools-info-info">
+					    	<h2>TAKING A HOLISTIC VIEW.</h2>
+					    	<h3>PIZZA HUT LOREM IPSUM DOLOR DON SEQUITOR</h3>
+					    	<p>Our buy design approach views the paths-to-purchases omni-channel. shoppers are now navigating between physical and digital experiences seamlessly. to design for this we Take a holistic view of the entire marketplace to create a shopper experience that is contextually relevant at every single touchpoint.</p>
+					    	<a href="">SEE THE PROJECT</a>
+					    </div>	
+					 </div>
+				</div>
+			</div>
+			<!--content-->
+		</div>
+			
+</article>
+
 <!--our-approach-->
 
 <!--include our offices-->
@@ -230,19 +368,38 @@
 </section>
 <script src="js/jquery-1.8.3.js"></script>
 <script src="js/scrollReveal.js"></script>
-<script src="js/jquery.easytabs.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script> 
-<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+<script src="js/superbox.js"></script>
+<script src="js/jquery.easytabs.min.js" type="text/javascript"></script> 
 <script type="text/javascript" src="js/nav.js"></script>
 <script type="text/javascript" src="js/matchMedia.js"></script>
 <script type="text/javascript">
-$(document ).ready(function() {scrollToAnchor('buy-design');});
 if (matchMedia('only screen and (min-width: 1024px)').matches) {
 
 document.write('<script src=js/parallax.js' + '><\/script>' );
 
 }
+</script>  
+<!--BRAND DROPDOWN--TOGGLE-->
+<script type="text/javascript">
+	$(document ).ready(function() {scrollToAnchor('buy-design');});
+	$(document).ready(function(){
+		$('.by-brand-list').hide();
+		$('#work-by-brand').click(function(e){
+			e.preventDefault();
+			$('.by-brand-list').slideToggle('fast');
+			$(this).parent().toggleClass('active');
+		});
+	});
+
 </script>
+<script  type="text/javascript">
+		$(function() {
+		
+			// Call SuperBox
+			$('.superbox').SuperBox();
+		
+		});
+		</script>
 
 
 </body>

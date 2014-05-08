@@ -26,7 +26,12 @@
 <?php include('views/header.php') ?>
 <!--include header-->
 
+
+<!--slideshow-->
+<div style="margin:auto;text-align:center"><div id="cycle-nav" class="cf"></div></div>
+<div class="slideshow">
 <!--LIONS-->
+<div class="slide">
 <article class="container lions" data-type="background" data-speed="5">	
 		<h1 class="lions-h1">NEW<br> LIONS<a href="">TL WINS AT CANES</a></h1>	
 </article>
@@ -53,7 +58,44 @@
 		<a href="#" class="blk-border-btn">VIEW FULL PORTFOLIO</a>
 	</section>	
 </article>
+</div>
 <!--LIONS-->
+
+<!--LIONS-->
+<div class="slide">
+<article class="container lions" data-type="background" data-speed="5">	
+		<h1 class="lions-h1">NEW<br> LIONS2<a href="">TL WINS AT CANES</a></h1>	
+</article>
+<article class="container dots-bg cf">
+	<img src="img/silver-tiger.jpg" alt="silver tiger" class="inline-top left small-tiger-home-img">
+	<section class="lions-tweet-slide">
+		<img src="img/lions-flags.jpg"alt="tiger-flags" class="inline-top" style="width:100%;">
+		<div class="twtr-feed">
+			<img src="img/twitter-girl.jpg" alt="twtr">
+			<div class="norm-twtr-feed">
+	    		<div class="norm-twtr-feed-inner cf">
+	    			<img src="img/twitter-blue.png" alt="twtr-bird" class="norm-twtr-img">
+		    		<span class="norm-twtr-name">Lindsay Weisgerber <span class="electric-blue">@lindzweiz</span></span>
+		    		<span class="norm-twtr-date">17 SEP</span>
+		    		<p>7 Apps Fashionistas Would Actually Use @TechCrunch
+			    		<span class="electric-blue">techcrunch.com/2013/06/17/sor...</span></p>
+		    		<div class="norm-twtr-menu">
+			    		<a href=""><img src="img/twtr-menu-gray.png" alt="" class="inline">Reply</a>
+			    		<a href=""><img src="img/twtr-menu-2-gray.png" alt="" class="inline">Retweet</a>
+					</div>
+		    	</div>
+	    	</div>
+		</div>
+		<a href="#" class="blk-border-btn">VIEW FULL PORTFOLIO</a>
+	</section>	
+</article>
+</div>
+<!--LIONS-->
+
+
+</div>
+<!--slideshow-->
+
 
 <!--partners-->
 <article class="container partners cf">
@@ -142,6 +184,8 @@
 </section>
 <!--content-->
 <script src="js/jquery-1.8.3.js"></script>
+<!-- include Cycle plugin -->
+<script type="text/javascript" src="js/cycle.js"></script>
 <script src="js/scrollReveal.js"></script>
 <script src="js/jquery.easytabs.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="js/jquery.jscrollpane.min.js"></script> 
@@ -155,7 +199,16 @@ document.write('<script src=js/parallax.js' + '><\/script>' );
 
 }
 </script>
-
+<script type="text/javascript">
+$(document).ready(function() {
+    $('.slideshow').cycle({
+		fx: 'fade',
+		//timeout: 0,
+		pager: '#cycle-nav',
+		delay: -2000 
+	});
+});
+</script>
 
 
 
