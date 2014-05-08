@@ -166,12 +166,12 @@ footer a.icon-facebook{margin:1% 0;}
 
 
 /*-------SLIDE SHOW--------*/
-#cycle-nav{position: absolute; z-index:1000; top: 41%; left: 10%; }
+#cycle-nav{position: absolute; z-index:1000; top:290px; left: 10%; }
 #cycle-nav a:before{content:url(../img/slide-pag-bg.png);}
 #cycle-nav a{color:#00a5db; text-decoration: none; opacity:.2;}
 #cycle-nav a.activeSlide{opacity:1;}
 .slideshow{overflow:inherit!important;}
-.slide{height:auto!important;}
+.slide{height:auto!important; width:100%!important;}
 
 
 
@@ -718,6 +718,9 @@ footer a.icon-facebook{margin:1% 0;}
 	/*--hide for talent for phones--*/
 	.phone-only{display:none!important;}
 	
+	/*--slides--*/
+	#cycle-nav{display:none}
+	
 	/*--home--*/
 	.lions {height: 130px;}
 	.lions-h1{width: 180px;margin-top: -7%;font-size: 4em;}
@@ -823,6 +826,7 @@ footer a.icon-facebook{margin:1% 0;}
 	.our-tools-mobile{display:block;}
 	.our-tools-mobile-item{width: 28%; padding: 2%; text-align: center; display: inline-block; vertical-align: top;}
 	.our-tools-info-cont {position: relative; top: 0px; left: 0;float: left; background-color:#ccc;}
+	.our-tools-info-cont img{width:100%}
 	.our-tools-info-info {width: 90%;padding: 3% 5%;}	
 	
 }
@@ -924,6 +928,10 @@ and (min-width : 760px) and (max-width : 1024px) {
 	[role="main-mobile-nav"] ul li.active{background-color:#fff;}
 	[role="main-mobile-nav"] ul li.active a{color:#00a5db;}
 	
+	/*--slides--*/
+	#cycle-nav {display:none;}	
+	
+	
 	/*--home--*/
 	.lions {height: 270px;}
 	.lions-h1{width:231px; margin-top: -4.5%;}
@@ -999,8 +1007,10 @@ and (min-width : 760px) and (max-width : 1024px) {
 	/*--OUR TOOLS--*/
 	#tool-tabs{display:none;}
 	.our-tools-mobile{display:block;}
-	
-	.our-tools-mobil{width: 30%; padding: 2%; text-align: center; display: inline-block; vertical-align: top;}
+	.our-tools-mobile-item{width: 28%; padding: 2%; text-align: center; display: inline-block; vertical-align: top;}
+	.our-tools-info-cont {position: relative; top: 0px; left: 0;float: left; background-color:#ccc;}
+	.our-tools-info-cont img{width:100%}
+	.our-tools-info-info {width: 90%;padding: 3% 5%;}	
 
 }
 
@@ -1072,6 +1082,8 @@ and (min-width : 1600px) {
 
 /*--footer--*/
 footer a:nth-child(1) {margin-bottom: 2%;}
+
+#cycle-nav {position: absolute;z-index: 1000;top: 365px;left: 10%;}
 
 /*-home--*/
 .lions-h1 {margin-top: -2%; width: 345px;}

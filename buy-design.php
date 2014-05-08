@@ -229,7 +229,7 @@
 			<!--visible area-->
 			<!--content-->
 			<div style="display:none;" class="superbox-content">
-				<div class="work-example left ">
+				<div class="work-example2 left ">
 			    	<div class="our-tools-info-cont" id="tools-1">
 				    	<img src="img/work-4.jpg" alt="" class="">
 				    	<div class="our-tools-info-info">
@@ -251,7 +251,7 @@
 			<!--visible area-->
 			<!--content-->
 			<div style="display:none;" class="superbox-content">
-				<div class="work-example left ">
+				<div class="work-example2 left ">
 			    	<div class="our-tools-info-cont" id="tools-1">
 				    	<img src="img/work-4.jpg" alt="" class="">
 				    	<div class="our-tools-info-info">
@@ -273,7 +273,7 @@
 			<!--visible area-->
 			<!--content-->
 			<div style="display:none;" class="superbox-content">
-				<div class="work-example left ">
+				<div class="work-example2 left ">
 			    	<div class="our-tools-info-cont" id="tools-1">
 				    	<img src="img/work-4.jpg" alt="" class="">
 				    	<div class="our-tools-info-info">
@@ -295,7 +295,7 @@
 			<!--visible area-->
 			<!--content-->
 			<div style="display:none;" class="superbox-content">
-				<div class="work-example left ">
+				<div class="work-example2 left ">
 			    	<div class="our-tools-info-cont" id="tools-1">
 				    	<img src="img/work-4.jpg" alt="" class="">
 				    	<div class="our-tools-info-info">
@@ -317,7 +317,7 @@
 			<!--visible area-->
 			<!--content-->
 			<div style="display:none;" class="superbox-content">
-				<div class="work-example left ">
+				<div class="work-example2 left ">
 			    	<div class="our-tools-info-cont" id="tools-1">
 				    	<img src="img/work-4.jpg" alt="" class="">
 				    	<div class="our-tools-info-info">
@@ -339,7 +339,7 @@
 			<!--visible area-->
 			<!--content-->
 			<div style="display:none;" class="superbox-content">
-				<div class="work-example left ">
+				<div class="work-example2 left ">
 			    	<div class="our-tools-info-cont" id="tools-1">
 				    	<img src="img/work-4.jpg" alt="" class="">
 				    	<div class="our-tools-info-info">

@@ -44,7 +44,7 @@
 
 <article class="container dots-bg2 work-highlights cf superbox"><!--
 		--><div  class='work-port-img superbox-list' >
-			<img data-original="img/work-1.jpg" alt="" class="lazy" width="636px" height="334px">
+			<img data-original="img/work-1.jpg" alt="" class="lazy" width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/pizza-hut-written-out.png" alt="Tracy Locke">
 			</div>
@@ -85,7 +85,7 @@
 			</div>
 		</div><!--
 	--><div class='work-port-img superbox-list'>
-			<img data-original="img/work-2.jpg" alt="" class="lazy"  width="636px" height="334px">
+			<img data-original="img/work-2.jpg" alt="" class="lazy"  width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -126,7 +126,7 @@
 			</div>
 		</div><!--	
 		--><div class='work-port-img superbox-list'>
-			<img data-original="img/work-3.jpg" alt="" class="lazy"  width="636px" height="334px">
+			<img data-original="img/work-3.jpg" alt="" class="lazy"  width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -167,7 +167,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img data-original="img/work-4.jpg" alt="" class="lazy"  width="636px" height="334px">
+			<img data-original="img/work-4.jpg" alt="" class="lazy"  width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/pizza-hut-written-out.png" alt="Tracy Locke">
 			</div>
@@ -208,7 +208,7 @@
 			</div>		
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img data-original="img/work-5.jpg" alt="" class="lazy"  width="636px" height="334px">
+			<img data-original="img/work-5.jpg" alt="" class="lazy"  width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -249,7 +249,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img data-original="img/work-6.jpg" alt="" class="lazy"  width="636px" height="334px">
+			<img data-original="img/work-6.jpg" alt="" class="lazy"  width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>
@@ -290,7 +290,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img data-original="img/work-7.jpg" alt="" class="lazy"  width="636px" height="334px">
+			<img data-original="img/work-7.jpg" alt="" class="lazy"  width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/harman.png" alt="Tracy Locke">
 			</div>
@@ -331,7 +331,7 @@
 			</div>
 		</div><!--		
 	--><div class='work-port-img superbox-list'>
-			<img data-original="img/work-8.jpg" alt="" class="lazy"  width="636px" height="334px">
+			<img data-original="img/work-8.jpg" alt="" class="lazy"  width="100%" height="100%">
 			<div class="work-hover center">
 				<img src="img/logos/pepsico.png" alt="Tracy Locke">
 			</div>

@@ -28,7 +28,7 @@
 
 
 <!--slideshow-->
-<div style="margin:auto;text-align:center"><div id="cycle-nav" class="cf"></div></div>
+<div id="cycle-nav" class="cf"></div>
 <div class="slideshow">
 <!--LIONS-->
 <div class="slide">
